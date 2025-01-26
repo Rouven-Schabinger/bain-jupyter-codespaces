@@ -1,1 +1,298 @@
-<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:alma.41SLSP_RBE:991045820105527</identifier><datestamp>2024-11-11T08:17:04Z</datestamp><setSpec>B406_RapidILL_BOOK</setSpec><setSpec>B433_RapidILL_BOOK</setSpec><setSpec>B424_RapidILL_BOOK</setSpec><setSpec>B429_RapidILL_BOOK</setSpec><setSpec>B434_RapidILL_BOOK</setSpec><setSpec>B445_RapidILL_BOOK</setSpec><setSpec>SLSP_B445_META</setSpec></header><metadata><record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"><leader>02932nam a2200745 c 4500</leader><controlfield tag="001">991045820105527</controlfield><controlfield tag="005">20240927125434.0</controlfield><controlfield tag="008">201011s1980    sz            00| | ger|d</controlfield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(swissbib)231849583-41slsp_network</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">231849583</subfield><subfield code="9">ExL</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(NEBIS)000222431EBI01</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(IDSLU)000239359ILU01</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(IDSBB)000104582DSV01</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(IDSSG)000335475HSB01</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(ABN)000133908ABN01</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(ALEX)bv000983368</subfield></datafield><datafield tag="035" ind1=" " ind2=" "><subfield code="a">(EXLNZ-41SLSP_NETWORK)991115760589705501</subfield></datafield><datafield tag="040" ind1=" " ind2=" "><subfield code="a">ETH-BIB</subfield><subfield code="b">ger</subfield><subfield code="e">ETHICS-ISBD</subfield><subfield code="d">CH-ZuSLS</subfield></datafield><datafield tag="072" ind1=" " ind2="7"><subfield code="a">sz</subfield><subfield code="2">SzZuIDS BS/BE</subfield></datafield><datafield tag="072" ind1=" " ind2="7"><subfield code="a">pa</subfield><subfield code="2">SzZuIDS BS/BE</subfield></datafield><datafield tag="082" ind1="1" ind2="4"><subfield code="a">300</subfield><subfield code="2">15</subfield></datafield><datafield tag="082" ind1="1" ind2="4"><subfield code="a">370</subfield><subfield code="2">15</subfield></datafield><datafield tag="245" ind1="0" ind2="0"><subfield code="a">Thesen zu den Jugendunruhen 1980</subfield><subfield code="c">aufgestellt von der Eidgenössischen Kommission für Jugendfragen</subfield></datafield><datafield tag="264" ind1=" " ind2="1"><subfield code="a">Bern</subfield><subfield code="b">Bundesamt für Kulturpflege</subfield><subfield code="c">1980</subfield></datafield><datafield tag="300" ind1=" " ind2=" "><subfield code="a">40 S.</subfield><subfield code="c">21 cm</subfield></datafield><datafield tag="336" ind1=" " ind2=" "><subfield code="b">txt</subfield><subfield code="2">rdacontent</subfield></datafield><datafield tag="337" ind1=" " ind2=" "><subfield code="b">n</subfield><subfield code="2">rdamedia</subfield></datafield><datafield tag="338" ind1=" " ind2=" "><subfield code="b">nc</subfield><subfield code="2">rdacarrier</subfield></datafield><datafield tag="520" ind1=" " ind2=" "><subfield code="a">Fürsorge, Jugend</subfield></datafield><datafield tag="648" ind1=" " ind2="7"><subfield code="a">Geschichte 1980</subfield><subfield code="2">gnd</subfield></datafield><datafield tag="648" ind1=" " ind2="7"><subfield code="a">Geschichte 1980</subfield><subfield code="2">idszbz</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendbewegung</subfield><subfield code="0">(DE-588)4028871-7</subfield><subfield code="2">gnd</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendpolitik</subfield><subfield code="0">(DE-588)4028918-7</subfield><subfield code="2">gnd</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Protestbewegung</subfield><subfield code="0">(DE-588)4226404-2</subfield><subfield code="2">gnd</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendprotest</subfield><subfield code="2">idszbz</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendpolitik</subfield><subfield code="2">idszbz</subfield></datafield><datafield tag="650" ind1=" " ind2="2"><subfield code="a">Social Problems</subfield><subfield code="0">(DNLM)D012940</subfield></datafield><datafield tag="650" ind1=" " ind2="0"><subfield code="a">Youth</subfield><subfield code="z">Switzerland</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">JUGENDPSYCHOLOGIE</subfield><subfield code="9">ger</subfield><subfield code="0">(ETHUDK)000009514</subfield><subfield code="2">ethudk</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">JUGENDUNRUHEN + JUGENDKRAWALLE (INNENPOLITIK)</subfield><subfield code="9">ger</subfield><subfield code="0">(ETHUDK)000010170</subfield><subfield code="2">ethudk</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">VERHÄLTNIS ZWISCHEN BEVÖLKERUNG UND STAAT (INNENPOLITIK)</subfield><subfield code="9">ger</subfield><subfield code="0">(ETHUDK)000010156</subfield><subfield code="2">ethudk</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendrevolte</subfield><subfield code="z">Schweiz</subfield><subfield code="2">idsbb</subfield></datafield><datafield tag="650" ind1=" " ind2="4"><subfield code="a">Jugend</subfield></datafield><datafield tag="650" ind1=" " ind2="4"><subfield code="a">Protestbewegung</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendliche</subfield><subfield code="0">(DE-STW)15924-3</subfield><subfield code="2">stw</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendpolitik</subfield><subfield code="0">(DE-STW)16480-1</subfield><subfield code="2">stw</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Kinderbetreuung</subfield><subfield code="0">(DE-STW)18864-1</subfield><subfield code="2">stw</subfield></datafield><datafield tag="650" ind1=" " ind2="7"><subfield code="a">Jugendprotest</subfield><subfield code="0">(DE-588)4028920-5</subfield><subfield code="2">gnd</subfield></datafield><datafield tag="651" ind1=" " ind2="7"><subfield code="a">Schweiz</subfield><subfield code="2">idszbz</subfield></datafield><datafield tag="651" ind1=" " ind2="4"><subfield code="a">Schweiz</subfield></datafield><datafield tag="651" ind1=" " ind2="7"><subfield code="a">Schweiz</subfield><subfield code="0">(DE-588)4053881-3</subfield><subfield code="2">gnd</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Schweiz</subfield><subfield code="2">uzb-UH</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Jugend</subfield><subfield code="2">uzb-UH</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Fachsprache</subfield><subfield code="2">uzb-UG</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Soziolinguistik</subfield><subfield code="2">uzb-UG</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Jugend, B: Revolte. Schweiz</subfield><subfield code="2">rzs-L1</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Jugend. Schweiz, B: Jugendunruhen</subfield><subfield code="2">rzs-L1</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Jugendbewegung</subfield><subfield code="2">ubs-AF</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Jugend / Protestverhalten / Schweiz</subfield><subfield code="2">bsb-G8</subfield></datafield><datafield tag="690" ind1=" " ind2=" "><subfield code="a">Protestverhalten / Jugend / Schweiz</subfield><subfield code="2">bsb-G8</subfield></datafield><datafield tag="710" ind1="1" ind2=" "><subfield code="a">Schweiz</subfield><subfield code="b">Eidgenössische Kommission für Jugendfragen</subfield></datafield><datafield tag="710" ind1="2" ind2=" "><subfield code="a">Eidgenössische Kommission für Jugendfragen</subfield><subfield code="0">(DE-588)2072710-0</subfield></datafield><datafield tag="856" ind1="4" ind2=" "><subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield><subfield code="u">https://toc.library.ethz.ch/objects/pdf/z06_000222431_01.pdf</subfield><subfield code="q">pdf</subfield></datafield><datafield tag="900" ind1=" " ind2=" "><subfield code="a">IDSE5E19ANH-2019</subfield></datafield><datafield tag="900" ind1=" " ind2=" "><subfield code="a">IDSZ2rwimon201006l</subfield><subfield code="c">IDSZ2paru 100622</subfield><subfield code="d">IDSZ2zbzswk201103b</subfield><subfield code="e">IDSZ2mueb</subfield></datafield><datafield tag="949" ind1=" " ind2=" "><subfield code="a">https://toc.library.ethz.ch/objects/pdf/z06_000222431_01.pdf</subfield></datafield><datafield tag="852" ind1="4" ind2=" "><subfield code="b">B434</subfield><subfield code="c">434MO</subfield><subfield code="j">StAB BA 223/2</subfield><subfield code="8">2222503840005527</subfield></datafield><datafield tag="852" ind1="4" ind2=" "><subfield code="b">B445</subfield><subfield code="c">445AN</subfield><subfield code="j">AGoF 569-14</subfield><subfield code="8">2222503820005527</subfield></datafield><datafield tag="949" ind1=" " ind2=" "><subfield code="3">2222503840005527</subfield><subfield code="o">BOOK</subfield><subfield code="x">1999/858</subfield><subfield code="2">DSVN1914922</subfield><subfield code="c">434MO</subfield><subfield code="x">R</subfield><subfield code="1">2322503830005527</subfield><subfield code="p">68</subfield><subfield code="j">StAB BA 223/2</subfield><subfield code="b">B434</subfield></datafield><datafield tag="949" ind1=" " ind2=" "><subfield code="3">2222503820005527</subfield><subfield code="i">Gosteli PA LBA 1 : 5</subfield><subfield code="o">BOOK</subfield><subfield code="x">Gosteli / G / NELB4450406 Lilo Bachmann</subfield><subfield code="2">BM0726622</subfield><subfield code="c">445AN</subfield><subfield code="1">2322503810005527</subfield><subfield code="p">68</subfield><subfield code="j">AGoF 569-14</subfield><subfield code="b">B445</subfield></datafield></record></metadata></record>
+<record xmlns="http://www.openarchives.org/OAI/2.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <header>
+        <identifier>oai:alma.41SLSP_RBE:991045820105527</identifier>
+        <datestamp>2024-11-11T08:17:04Z</datestamp>
+        <setSpec>B406_RapidILL_BOOK</setSpec>
+        <setSpec>B433_RapidILL_BOOK</setSpec>
+        <setSpec>B424_RapidILL_BOOK</setSpec>
+        <setSpec>B429_RapidILL_BOOK</setSpec>
+        <setSpec>B434_RapidILL_BOOK</setSpec>
+        <setSpec>B445_RapidILL_BOOK</setSpec>
+        <setSpec>SLSP_B445_META</setSpec>
+    </header>
+    <metadata>
+        <record xmlns="http://www.loc.gov/MARC21/slim"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+            <leader>02932nam a2200745 c 4500</leader>
+            <controlfield tag="001">991045820105527</controlfield>
+            <controlfield tag="005">20240927125434.0</controlfield>
+            <controlfield tag="008">201011s1980    sz            00| | ger|d</controlfield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(swissbib)231849583-41slsp_network</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">231849583</subfield>
+                <subfield code="9">ExL</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(NEBIS)000222431EBI01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSLU)000239359ILU01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSBB)000104582DSV01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(IDSSG)000335475HSB01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(ABN)000133908ABN01</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(ALEX)bv000983368</subfield>
+            </datafield>
+            <datafield tag="035" ind1=" " ind2=" ">
+                <subfield code="a">(EXLNZ-41SLSP_NETWORK)991115760589705501</subfield>
+            </datafield>
+            <datafield tag="040" ind1=" " ind2=" ">
+                <subfield code="a">ETH-BIB</subfield>
+                <subfield code="b">ger</subfield>
+                <subfield code="e">ETHICS-ISBD</subfield>
+                <subfield code="d">CH-ZuSLS</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">sz</subfield>
+                <subfield code="2">SzZuIDS BS/BE</subfield>
+            </datafield>
+            <datafield tag="072" ind1=" " ind2="7">
+                <subfield code="a">pa</subfield>
+                <subfield code="2">SzZuIDS BS/BE</subfield>
+            </datafield>
+            <datafield tag="082" ind1="1" ind2="4">
+                <subfield code="a">300</subfield>
+                <subfield code="2">15</subfield>
+            </datafield>
+            <datafield tag="082" ind1="1" ind2="4">
+                <subfield code="a">370</subfield>
+                <subfield code="2">15</subfield>
+            </datafield>
+            <datafield tag="245" ind1="0" ind2="0">
+                <subfield code="a">Thesen zu den Jugendunruhen 1980</subfield>
+                <subfield code="c">aufgestellt von der Eidgenössischen Kommission für Jugendfragen</subfield>
+            </datafield>
+            <datafield tag="264" ind1=" " ind2="1">
+                <subfield code="a">Bern</subfield>
+                <subfield code="b">Bundesamt für Kulturpflege</subfield>
+                <subfield code="c">1980</subfield>
+            </datafield>
+            <datafield tag="300" ind1=" " ind2=" ">
+                <subfield code="a">40 S.</subfield>
+                <subfield code="c">21 cm</subfield>
+            </datafield>
+            <datafield tag="336" ind1=" " ind2=" ">
+                <subfield code="b">txt</subfield>
+                <subfield code="2">rdacontent</subfield>
+            </datafield>
+            <datafield tag="337" ind1=" " ind2=" ">
+                <subfield code="b">n</subfield>
+                <subfield code="2">rdamedia</subfield>
+            </datafield>
+            <datafield tag="338" ind1=" " ind2=" ">
+                <subfield code="b">nc</subfield>
+                <subfield code="2">rdacarrier</subfield>
+            </datafield>
+            <datafield tag="520" ind1=" " ind2=" ">
+                <subfield code="a">Fürsorge, Jugend</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1980</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="648" ind1=" " ind2="7">
+                <subfield code="a">Geschichte 1980</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendbewegung</subfield>
+                <subfield code="0">(DE-588)4028871-7</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendpolitik</subfield>
+                <subfield code="0">(DE-588)4028918-7</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Protestbewegung</subfield>
+                <subfield code="0">(DE-588)4226404-2</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendprotest</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendpolitik</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="2">
+                <subfield code="a">Social Problems</subfield>
+                <subfield code="0">(DNLM)D012940</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="0">
+                <subfield code="a">Youth</subfield>
+                <subfield code="z">Switzerland</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">JUGENDPSYCHOLOGIE</subfield>
+                <subfield code="9">ger</subfield>
+                <subfield code="0">(ETHUDK)000009514</subfield>
+                <subfield code="2">ethudk</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">JUGENDUNRUHEN + JUGENDKRAWALLE (INNENPOLITIK)</subfield>
+                <subfield code="9">ger</subfield>
+                <subfield code="0">(ETHUDK)000010170</subfield>
+                <subfield code="2">ethudk</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">VERHÄLTNIS ZWISCHEN BEVÖLKERUNG UND STAAT (INNENPOLITIK)</subfield>
+                <subfield code="9">ger</subfield>
+                <subfield code="0">(ETHUDK)000010156</subfield>
+                <subfield code="2">ethudk</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendrevolte</subfield>
+                <subfield code="z">Schweiz</subfield>
+                <subfield code="2">idsbb</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="4">
+                <subfield code="a">Jugend</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="4">
+                <subfield code="a">Protestbewegung</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendliche</subfield>
+                <subfield code="0">(DE-STW)15924-3</subfield>
+                <subfield code="2">stw</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendpolitik</subfield>
+                <subfield code="0">(DE-STW)16480-1</subfield>
+                <subfield code="2">stw</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Kinderbetreuung</subfield>
+                <subfield code="0">(DE-STW)18864-1</subfield>
+                <subfield code="2">stw</subfield>
+            </datafield>
+            <datafield tag="650" ind1=" " ind2="7">
+                <subfield code="a">Jugendprotest</subfield>
+                <subfield code="0">(DE-588)4028920-5</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Schweiz</subfield>
+                <subfield code="2">idszbz</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="4">
+                <subfield code="a">Schweiz</subfield>
+            </datafield>
+            <datafield tag="651" ind1=" " ind2="7">
+                <subfield code="a">Schweiz</subfield>
+                <subfield code="0">(DE-588)4053881-3</subfield>
+                <subfield code="2">gnd</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Schweiz</subfield>
+                <subfield code="2">uzb-UH</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Jugend</subfield>
+                <subfield code="2">uzb-UH</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Fachsprache</subfield>
+                <subfield code="2">uzb-UG</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Soziolinguistik</subfield>
+                <subfield code="2">uzb-UG</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Jugend, B: Revolte. Schweiz</subfield>
+                <subfield code="2">rzs-L1</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Jugend. Schweiz, B: Jugendunruhen</subfield>
+                <subfield code="2">rzs-L1</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Jugendbewegung</subfield>
+                <subfield code="2">ubs-AF</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Jugend / Protestverhalten / Schweiz</subfield>
+                <subfield code="2">bsb-G8</subfield>
+            </datafield>
+            <datafield tag="690" ind1=" " ind2=" ">
+                <subfield code="a">Protestverhalten / Jugend / Schweiz</subfield>
+                <subfield code="2">bsb-G8</subfield>
+            </datafield>
+            <datafield tag="710" ind1="1" ind2=" ">
+                <subfield code="a">Schweiz</subfield>
+                <subfield code="b">Eidgenössische Kommission für Jugendfragen</subfield>
+            </datafield>
+            <datafield tag="710" ind1="2" ind2=" ">
+                <subfield code="a">Eidgenössische Kommission für Jugendfragen</subfield>
+                <subfield code="0">(DE-588)2072710-0</subfield>
+            </datafield>
+            <datafield tag="856" ind1="4" ind2=" ">
+                <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+                <subfield code="u">https://toc.library.ethz.ch/objects/pdf/z06_000222431_01.pdf</subfield>
+                <subfield code="q">pdf</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSE5E19ANH-2019</subfield>
+            </datafield>
+            <datafield tag="900" ind1=" " ind2=" ">
+                <subfield code="a">IDSZ2rwimon201006l</subfield>
+                <subfield code="c">IDSZ2paru 100622</subfield>
+                <subfield code="d">IDSZ2zbzswk201103b</subfield>
+                <subfield code="e">IDSZ2mueb</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="a">https://toc.library.ethz.ch/objects/pdf/z06_000222431_01.pdf</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">B434</subfield>
+                <subfield code="c">434MO</subfield>
+                <subfield code="j">StAB BA 223/2</subfield>
+                <subfield code="8">2222503840005527</subfield>
+            </datafield>
+            <datafield tag="852" ind1="4" ind2=" ">
+                <subfield code="b">B445</subfield>
+                <subfield code="c">445AN</subfield>
+                <subfield code="j">AGoF 569-14</subfield>
+                <subfield code="8">2222503820005527</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="3">2222503840005527</subfield>
+                <subfield code="o">BOOK</subfield>
+                <subfield code="x">1999/858</subfield>
+                <subfield code="2">DSVN1914922</subfield>
+                <subfield code="c">434MO</subfield>
+                <subfield code="x">R</subfield>
+                <subfield code="1">2322503830005527</subfield>
+                <subfield code="p">68</subfield>
+                <subfield code="j">StAB BA 223/2</subfield>
+                <subfield code="b">B434</subfield>
+            </datafield>
+            <datafield tag="949" ind1=" " ind2=" ">
+                <subfield code="3">2222503820005527</subfield>
+                <subfield code="i">Gosteli PA LBA 1 : 5</subfield>
+                <subfield code="o">BOOK</subfield>
+                <subfield code="x">Gosteli / G / NELB4450406 Lilo Bachmann</subfield>
+                <subfield code="2">BM0726622</subfield>
+                <subfield code="c">445AN</subfield>
+                <subfield code="1">2322503810005527</subfield>
+                <subfield code="p">68</subfield>
+                <subfield code="j">AGoF 569-14</subfield>
+                <subfield code="b">B445</subfield>
+            </datafield>
+        </record>
+    </metadata>
+</record>
