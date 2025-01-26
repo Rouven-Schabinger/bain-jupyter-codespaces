@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:ead="urn:isbn:1-931666-22-9" xmlns:oai="http://www.openarchives.org/OAI/2.0/">
+  <record xmlns="">
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">American Association of Industrial Editors (AAIE) Records 2750900</subfield>
+      <subfield code="n">2750900</subfield>
+      <subfield code="c">MRC</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="b">Mein erstes eigenes Archiv</subfield>
+      <subfield code="c">6 May 2010</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">Original cataloging agency</subfield>
+      <subfield code="c">Transcribing agency</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a"/>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a"/>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">Mein erstes eigenes Archiv</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">American Association of Industrial Editors (AAIE) Records</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a"/>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 linear ft.</subfield>
+      <subfield code="c"/>
+    </datafield>
+    <datafield tag="520" ind1="2" ind2=" ">
+      <subfield code="a">Minutes, reports, photographs, printed materials from the American professional editors' association.</subfield>
+    </datafield>
+    <datafield tag="506" ind1=" " ind2=" ">
+      <subfield code="a">The collection is unprocessed and accessible by special permission only.</subfield>
+    </datafield>
+    <datafield tag="561" ind1=" " ind2=" ">
+      <subfield code="a">Gift of Samuel V. Kennedy, 1980.</subfield>
+    </datafield>
+    <datafield tag="545" ind1=" " ind2=" ">
+      <subfield code="a">The American Association of Industrial Editors was formed in 1938 by a small group of editors of industrial publications and house organs, who saw their mission as increasing professionalism among editors, improving quality of publications and serving management. Within a few months the fledgling organization had members from 17 states and by 1939 they began publishing the Editor's Notebook, aimed at editors of industrial and corporate magazines. In 1941 AAIE became one of several charter members of the National Council of Industrial Editors Association (NCIEA), which later became the International Council of Industrial Editors (ICIE). AAIE withdrew from ICIE in 1946 over policy differences but the two organizations merged again in 1970, becoming the International Association of Business Communicators (IABC).</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" ">
+      <subfield code="a"/>
+    </datafield>
+    <datafield tag="524" ind1=" " ind2=" ">
+      <subfield code="a">Preferred citation for this material is as follows:</subfield>
+    </datafield>
+    <datafield tag="555" ind1=" " ind2=" ">
+      <subfield code="a"/>
+    </datafield>
+    <datafield tag="520" ind1="2" ind2=" ">
+      <subfield code="a">The American Association of Industrial Editors Records contains minutes, reports, photographs, printed materials and other items from the American professional editors' association.</subfield>
+    </datafield>
+    <datafield tag="540" ind1=" " ind2=" ">
+      <subfield code="a">Written permission must be obtained from SCRC and all relevant rights holders before publishing quotations, excerpts or images from any materials in this collection.</subfield>
+    </datafield>
+    <datafield tag="561" ind1=" " ind2=" ">
+      <subfield code="a">An inventory has not yet been created for this collection. Please contact the Repository listed above for more information.</subfield>
+    </datafield>
+  </record>
+</collection>

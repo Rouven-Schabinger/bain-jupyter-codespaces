@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>      am         3u     </leader>
+  <datafield tag="042" ind1=" " ind2=" ">
+    <subfield code="a">dc</subfield>
+  </datafield>
+  <datafield tag="720" ind1=" " ind2=" ">
+    <subfield code="a">Doe, Jane</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">2021-11-30T21:37:55Z</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">2021-11-30T21:37:55Z</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1999-03-11</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">http://hdl.handle.net/10673/362</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">en</subfield>
+  </datafield>
+  <datafield tag="540" ind1=" " ind2=" ">
+    <subfield code="a">Attribution-ShareAlike 3.0 United States</subfield>
+  </datafield>
+  <datafield tag="540" ind1=" " ind2=" ">
+    <subfield code="a">http://creativecommons.org/licenses/by-sa/3.0/us/</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" ">
+    <subfield code="a">philosophy</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">This is a title</subfield>
+  </datafield>
+</record>
