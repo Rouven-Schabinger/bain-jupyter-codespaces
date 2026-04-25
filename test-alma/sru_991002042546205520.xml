@@ -1,0 +1,195 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02218nam a2200589 c 4500</leader>
+  <controlfield tag="001">991002042546205520</controlfield>
+  <controlfield tag="005">20230327183200.0</controlfield>
+  <controlfield tag="008">201011s1999    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="019">
+    <subfield code="a">Cathomas-Bearth, Rita (1949-)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3279005353</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)211302929-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">211302929</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)003831303EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSLU)000188610ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(ALEX)bv000871953</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991058474129705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">ZBZ</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">140</subfield>
+    <subfield code="2">IDS LU</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">&lt;&lt;Das&gt;&gt; Erzählen geht weiter</subfield>
+    <subfield code="b">Frauenleben in Graubünden</subfield>
+    <subfield code="c">[ Rita] Cathomas[-Bearth] ... [et al.]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="b">Octopus</subfield>
+    <subfield code="c">1999</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">269 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte 1900-2000</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte 1906-1999</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte 1906-1993</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Alltag</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frau</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Alltag</subfield>
+    <subfield code="0">(DE-588)4001307-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frau</subfield>
+    <subfield code="0">(DE-588)4018202-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">FRAUENGESCHICHTE (GESCHLECHTERFRAGEN)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000042724</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">GESCHICHTE DES ALLTAGSLEBENS</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000045500</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KANTON GRAUBÜNDEN (SCHWEIZ)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000005120</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">ZWANZIGSTES JAHRHUNDERT N. CHR.</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000008907</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">ÜBERLIEFERUNG ALS GESCHICHTSQUELLE</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000000126</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden (Schweiz)</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Erlebnisbericht</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="v">Biografie</subfield>
+    <subfield code="2">idsmusi</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">nebis-E4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Frau</subfield>
+    <subfield code="x">Geschichte</subfield>
+    <subfield code="x">20.Jh.</subfield>
+    <subfield code="2">nebis-E4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Erlebnisbericht</subfield>
+    <subfield code="2">nebis-E4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Biografie</subfield>
+    <subfield code="2">nebis-E4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Lebenslauf</subfield>
+    <subfield code="2">nebis-E4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Alltag</subfield>
+    <subfield code="2">nebis-E4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Frau. Schweiz: Graubünden-Kt. Geschichte. 20. Jh. A. Aufsätze</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Cathomas-Bearth, Rita</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZ1zh</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZ2zbzmon200001e</subfield>
+    <subfield code="c">IDSZ2kuns 000131</subfield>
+    <subfield code="d">IDSZ2zbzswk200002b</subfield>
+    <subfield code="e">IDSZ2erbe</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSE5E19ANH-2013</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,117 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01319nam a2200373uc 4500</leader>
+  <controlfield tag="001">991002043137905520</controlfield>
+  <controlfield tag="005">20240920204423.0</controlfield>
+  <controlfield tag="008">201012s1986    sz            00| | ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3729810405</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)236312960-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">236312960</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)000271155DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)005845397EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991140491679705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS BS/BE A100</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">kids</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">kh</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="082">
+    <subfield code="a">914.94/7</subfield>
+    <subfield code="2">19</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Meier, Erhard</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Chur - Stadt im Passland</subfield>
+    <subfield code="b">Stadtführer</subfield>
+    <subfield code="c">Erhard Meier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="b">Terra Grischuna</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">48 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Kulturwege in Graubünden / Erhard Meier</subfield>
+    <subfield code="v">Sonderheft</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Kunst</subfield>
+    <subfield code="z">Chur</subfield>
+    <subfield code="v">Führer</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Chur</subfield>
+    <subfield code="x">Architektur</subfield>
+    <subfield code="v">Führer</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Chur (Switzerland)</subfield>
+    <subfield code="v">Guidebooks</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Chur (Switzerland)</subfield>
+    <subfield code="x">Description and travel</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Graubünden (Switzerland)</subfield>
+    <subfield code="v">Guidebooks</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden : Kultur : Geschichte</subfield>
+    <subfield code="2">uzb-VH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Chur</subfield>
+    <subfield code="2">uzb-VH</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="800">
+    <subfield code="a">Meier, Erhard</subfield>
+    <subfield code="t">Kulturwege in Graubünden</subfield>
+    <subfield code="v">99</subfield>
+    <subfield code="w">(IDSBB)000141884DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZRMedeaZBZ</subfield>
+    <subfield code="b">IDSZRSWK</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>

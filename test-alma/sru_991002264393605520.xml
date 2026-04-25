@@ -1,0 +1,41 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00565naa a2200157 c 4500</leader>
+  <controlfield tag="001">991002264393605520</controlfield>
+  <controlfield tag="005">20260206184932.0</controlfield>
+  <controlfield tag="008">970310s1996    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)186921896-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">186921896</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)007990513EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991104395589705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Vasella, Oskar</subfield>
+    <subfield code="d">1904-1966</subfield>
+    <subfield code="0">(DE-588)123392403</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Bauernkrieg und Reformation in Graubünden 1525-1526</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Geistliche und Bauern</subfield>
+    <subfield code="g">1996</subfield>
+    <subfield code="g">S. 133-197</subfield>
+    <subfield code="w">(NEBIS)007970516EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

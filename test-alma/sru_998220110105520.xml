@@ -1,0 +1,113 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01455nam a2200349 c 4500</leader>
+  <controlfield tag="001">998220110105520</controlfield>
+  <controlfield tag="005">20241004193306.0</controlfield>
+  <controlfield tag="008">201011s2002    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)215102517-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">215102517</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSSG)000822011HSB01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSSG)000789114HSB01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991082458019705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS PHSG</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">kids</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Ameisen</subfield>
+    <subfield code="b">gemeinsam erfolgreich</subfield>
+    <subfield code="c">Idee: Beatrix Mühlethaler [...et al.]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Basel</subfield>
+    <subfield code="b">Pro Natura Magazin</subfield>
+    <subfield code="c">2002</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 Mappe (3 Hefte und 1 CD)</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Pro Natura Magazin. Spezial</subfield>
+    <subfield code="v">2002</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="490">
+    <subfield code="a">Das Amt für Wald Graubünden informiert...</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Sammelmappe zum Thema Ameisen</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="g">Pro Natura Magazin 4/2002</subfield>
+    <subfield code="t">Ameisen: Gemeinsam erfolgreich</subfield>
+    <subfield code="r">Beatrix Mühlethaler</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="g">Faktenblatt 4</subfield>
+    <subfield code="t">Millionenvolk im Wald</subfield>
+    <subfield code="r">Monica Kaiser-Benz</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="t">&lt;&lt;Die&gt;&gt; Ameisen kehren zurück: Begleitheft zur Sonderausstellung "Ameisen" des Naturmuseums Thurgau</subfield>
+    <subfield code="r">Hermann Blöchlinger ... [et al.]</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="t">Ameisen (CD)</subfield>
+    <subfield code="r">V.-J. Girardier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Ameisen</subfield>
+    <subfield code="0">(HPHSG)000002064</subfield>
+    <subfield code="2">hph-phsg</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Kaiser-Benz, Monica</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Blöchlinger, Hermann</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Girardier, Viviane-Jacqueline</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Mühlethaler, Beatrix</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="830">
+    <subfield code="a">Pro Natura Magazin</subfield>
+    <subfield code="v">2002</subfield>
+    <subfield code="w">(IDSSG)000765982HSB01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="961">
+    <subfield code="a">595.773</subfield>
+    <subfield code="2">hph-phsg</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="990">
+    <subfield code="a">phsg-exlp</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

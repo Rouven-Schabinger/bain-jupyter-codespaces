@@ -1,0 +1,65 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01010nam a2200217uc 4500</leader>
+  <controlfield tag="001">991002044171805520</controlfield>
+  <controlfield tag="005">20201222234219.0</controlfield>
+  <controlfield tag="008">000714s2000    sz ||||| |||| 00| ||ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)205237142-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">205237142</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)011011524EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991161413479705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS PHGR</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Filzszene Graubünden, Schweiz</subfield>
+    <subfield code="b">Bälle, Hüte, Teppiche, Jacken, Seelenvögel und Stühle... : neun Filzgestalterinnen stellen sich und ihre vielfältigen Arbeiten vor</subfield>
+    <subfield code="c">[Texte und Textbearb.: Gisela Kuoni ; Gestaltung: Hugo Zumbühl]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur (Sonnenhaldenstr. 14)</subfield>
+    <subfield code="b">Friedel Naef [Vertrieb]</subfield>
+    <subfield code="c">2000</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">[11] Faltbl.</subfield>
+    <subfield code="b">Ill.</subfield>
+    <subfield code="c">31 cm, in Mappe</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Filz (Textilien)</subfield>
+    <subfield code="0">(DE-588c)4154398-1</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Künstlerin</subfield>
+    <subfield code="0">(DE-588)4033430-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Kuoni, Gisela</subfield>
+    <subfield code="d">1938-</subfield>
+    <subfield code="0">(DE-588)1142565467</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGRIMPORT</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>

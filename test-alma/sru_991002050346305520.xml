@@ -1,0 +1,78 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00881naa a2200265 c 4500</leader>
+  <controlfield tag="001">991002050346305520</controlfield>
+  <controlfield tag="005">20260206155447.0</controlfield>
+  <controlfield tag="008">201012s1978    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)236343033-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">236343033</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)004433834DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009091085EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991053189089705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS BS/BE A258</subfield>
+    <subfield code="e">kids</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">vk</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">390</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Fravi, Paul</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Bergwerke und Bergbau in Graubünden</subfield>
+    <subfield code="c">von Paul Fravi</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Bergbau, Graubünden</subfield>
+    <subfield code="2">ubs-A6</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Bergbau</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Bündner Monatsblatt</subfield>
+    <subfield code="d">Chur</subfield>
+    <subfield code="g">1978, Nr. 7/8, S. 1-25</subfield>
+    <subfield code="q">1978/7/1</subfield>
+    <subfield code="g">yr:1978</subfield>
+    <subfield code="g">no:1978</subfield>
+    <subfield code="w">(IDSBB)000036930DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="f">IDSU2medea</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

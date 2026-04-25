@@ -1,0 +1,116 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01610nas a2200385 c 4500</leader>
+  <controlfield tag="001">991001618529805520</controlfield>
+  <controlfield tag="005">20250513224240.0</controlfield>
+  <controlfield tag="007">cr||||||||||||</controlfield>
+  <controlfield tag="008">160720c20019999gw u||p|o ||| 0||||1ger c</controlfield>
+  <datafield ind1="7" ind2=" " tag="016">
+    <subfield code="2">DE-101</subfield>
+    <subfield code="a">1107216702</subfield>
+  </datafield>
+  <datafield ind1="7" ind2=" " tag="016">
+    <subfield code="2">DE-600</subfield>
+    <subfield code="a">2862660-6</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(CKB)5280000000192610</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(DE-101)1107216702</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(DE-599)ZDB2862660-6</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLCZ)995280000000192610</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">0355</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-101</subfield>
+    <subfield code="d">9001</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="041">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="044">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield ind1="7" ind2="4" tag="082">
+    <subfield code="a">350</subfield>
+    <subfield code="q">DE-600</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Amtsblatt des Kantons Graubünden</subfield>
+    <subfield code="b">= Fegl official dil Cantum Grischun = Foglio officiale del Cantone dei Grigioni</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="246">
+    <subfield code="a">Amtsblatt des Kantons Graubünden = Foglio Ufficiale del Cantone dei Grigioni = Fegl Uffizial dal Chantun Grischun</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="246">
+    <subfield code="a">Amtsblatt des Kantons GraubÃ¼nden = Foglio Ufficiale del Cantone dei Grigioni = Fegl Uffizial dal Chantun Grischun</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="1" tag="246">
+    <subfield code="a">Fegl official dil Cantum Grischun</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="1" tag="246">
+    <subfield code="a">Foglio officiale del Cantone dei Grigioni</subfield>
+  </datafield>
+  <datafield ind1="3" ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="b">Standeskanzlei Graubünden</subfield>
+    <subfield code="c">[2001?]-</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">Online-Ressource</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="362">
+    <subfield code="a">2001 [?]-</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="1" tag="363">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="i">2001</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Gesehen am 20. Juli 2016</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="0">(DE-588)4067488-5</subfield>
+    <subfield code="0">https://d-nb.info/gnd/4067488-5</subfield>
+    <subfield code="0">(DE-101)040674886</subfield>
+    <subfield code="a">Zeitschrift</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="8" tag="776">
+    <subfield code="x">1423-7520</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="710">
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="0">https://d-nb.info/gnd/4021881-8</subfield>
+    <subfield code="0">(DE-101)040218813</subfield>
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="4">isb</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="906">
+    <subfield code="a">JOURNAL</subfield>
+  </datafield>
+</record>

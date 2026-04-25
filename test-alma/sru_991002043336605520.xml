@@ -1,0 +1,253 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02691nam a2200769 c 4500</leader>
+  <controlfield tag="001">991002043336605520</controlfield>
+  <controlfield tag="005">20240927123402.0</controlfield>
+  <controlfield tag="008">201011s2013    sz            00| | ger|d</controlfield>
+  <datafield ind1=" " ind2=" " tag="015">
+    <subfield code="a">14,A01</subfield>
+    <subfield code="z">13,N35</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="015">
+    <subfield code="a">13,N35</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield ind1="7" ind2=" " tag="016">
+    <subfield code="a">1038370027</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9783856374419</subfield>
+    <subfield code="c">CHF 39.00</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3856374418</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)21317474X-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">21317474X</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)006201517DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSLU)001129636ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009975473EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(OCoLC)864535856</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(OCoLC)858606216</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991036070189705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZUIDS</subfield>
+    <subfield code="e">kids</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">sz</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">gn</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">vk</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">250</subfield>
+    <subfield code="2">IDS LU</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">305.48969120949473</subfield>
+    <subfield code="2">22/ger</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">300</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">305.3</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">390</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">LB 56150</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">LB 44150</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">LB 48150</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">390</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">300</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Frauen schaffen Heimat</subfield>
+    <subfield code="b">Migrantinnen in Graubünden erzählen</subfield>
+    <subfield code="c">Ursula Brunold-Bigler, Silvia Conzett (Hg.)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">[Chur]</subfield>
+    <subfield code="b">Desertina</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">236 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Lebensgeschichten von 24 Migrantinnen</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="504">
+    <subfield code="a">Literaturangaben</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Lebenslauf</subfield>
+    <subfield code="0">(DE-588)4034869-6</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Einwanderung</subfield>
+    <subfield code="0">(DE-STW)15952-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frauen</subfield>
+    <subfield code="0">(DE-STW)15920-4</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Identität</subfield>
+    <subfield code="0">(DE-588)4026482-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Einwanderin</subfield>
+    <subfield code="0">(DE-588)4314292-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Heimat</subfield>
+    <subfield code="0">(DE-588)4024105-1</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Migration</subfield>
+    <subfield code="0">(DE-588)4120730-0</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Biografie</subfield>
+    <subfield code="0">(DE-588)4006804-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Deutsche Schweiz</subfield>
+    <subfield code="0">(DE-588)4070352-6</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Erlebnisbericht</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Biografie</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Einwanderung</subfield>
+    <subfield code="z">Deutsche Schweiz</subfield>
+    <subfield code="2">ubs-FC</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Frauen</subfield>
+    <subfield code="2">ubs-FC</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Einwanderung</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Biographie</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Migration</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Conzett, Silvia</subfield>
+    <subfield code="d">1959-</subfield>
+    <subfield code="0">(DE-588)113743025</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Brunold-Bigler, Ursula</subfield>
+    <subfield code="d">1950-</subfield>
+    <subfield code="0">(DE-588)115432434</subfield>
+  </datafield>
+  <datafield ind1="4" ind2=" " tag="856">
+    <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+    <subfield code="u">https://toc.library.ethz.ch/objects/pdf03/z01_978-3-85637-441-9_01.pdf</subfield>
+    <subfield code="q">pdf</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZ2zbzmon201402l</subfield>
+    <subfield code="c">IDSZ2kobe</subfield>
+    <subfield code="d">IDSZ2zbzswk201403b</subfield>
+    <subfield code="e">IDSZ2bucp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSE5E19ANH-2014</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="949">
+    <subfield code="a">https://toc.library.ethz.ch/objects/pdf03/z01_978-3-85637-441-9_01.pdf</subfield>
+  </datafield>
+</record>

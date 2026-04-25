@@ -1,0 +1,541 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>06613nam a2201561uc 4500</leader>
+  <controlfield tag="001">991002042576805520</controlfield>
+  <controlfield tag="005">20241221053620.0</controlfield>
+  <controlfield tag="008">201012t19921992sz       m    00| | ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="019">
+    <subfield code="a">Mathieu, Jon (1952-) / Külling</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3905278839</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)241890446-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">241890446</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)000781693DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(RERO)1489714-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSLU)000061600ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)000624902EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSSG)000043382HSB01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(SBT)000012429SBT01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(ABN)000019620ABN01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(ALEX)bv00609331</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991104099249705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS BS/BE B467</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">kids</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="044">
+    <subfield code="a">sz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">gg</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">lw</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">390</subfield>
+    <subfield code="2">IDS LU</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ht</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">306.349094947</subfield>
+    <subfield code="2">22</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">630.94947</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">630</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">910</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">NW 3050</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">RK 45663</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">NW 2435</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">ZA 80000</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">39</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">630</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Mathieu, Jon</subfield>
+    <subfield code="d">1952-</subfield>
+    <subfield code="6">880-01</subfield>
+    <subfield code="0">(DE-588)133572862</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="880">
+    <subfield code="6">100-01</subfield>
+    <subfield code="a">Mathieu, Jon</subfield>
+    <subfield code="d">1952-....</subfield>
+    <subfield code="0">(IDREF)028986180</subfield>
+    <subfield code="4">cre</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">&lt;&lt;Eine&gt;&gt; Agrargeschichte der inneren Alpen</subfield>
+    <subfield code="b">Graubünden, Tessin, Wallis 1500-1800</subfield>
+    <subfield code="c">Jon Mathieu</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Zürich</subfield>
+    <subfield code="b">Chronos Verlag</subfield>
+    <subfield code="c">1992</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="264">
+    <subfield code="c">© 1992</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">367 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Mit engl. Zus.-Fas.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="502">
+    <subfield code="a">Habil.-Schr. phil.-hist. Univ. Bern, 1991</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="504">
+    <subfield code="a">Literaturverz.: S. 321-355</subfield>
+  </datafield>
+  <datafield ind1="4" ind2=" " tag="510">
+    <subfield code="a">Etudes rurales (Paris) ; (1991) n⁰ 121-124, p. 273-275 (François Walter)</subfield>
+  </datafield>
+  <datafield ind1="4" ind2=" " tag="510">
+    <subfield code="a">Schweizerische Zeitschrift für Geschichte, 43,1993,1,p.151 (Erich Wenneker)</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="510">
+    <subfield code="a">Etudes rurales (Paris) ; (1991) n° 121-124, p. 273-275 (François Walter)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Sozialgeschichte ; Alpenwirtschaft ; Arbeitsmittel in der Landwirtschaft ; Agrarzonen der alten Schweiz</subfield>
+    <subfield code="5">IDSBB/B429</subfield>
+  </datafield>
+  <datafield ind1="8" ind2=" " tag="520">
+    <subfield code="a">Analisi: AGRICOLTURA. Agricoltura di montagna. Ticino. Svizzera. ECONOMIA REGIONALE. Regioni di montagne. STORIA ECONOMICA. Altre. Ticino. Svizzera. TICINO. Agricoltura</subfield>
+    <subfield code="5">RERO/08.05.1992/tiire-/mz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte 1500-1800</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Bodenbearbeitung</subfield>
+    <subfield code="0">(DE-588)4007353-1</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Milchverarbeitung</subfield>
+    <subfield code="0">(DE-588)4169927-0</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Wirtschaft</subfield>
+    <subfield code="0">(DE-588)4066399-1</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Agriculture</subfield>
+    <subfield code="0">(IDREF)027269892</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">16e siècle-18e siècle</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Landwirtschaft</subfield>
+    <subfield code="0">(DE-588)4034402-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Berglandwirtschaft</subfield>
+    <subfield code="0">(DE-588)4122069-9</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Agriculture</subfield>
+    <subfield code="x">Economic aspects</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Agriculture</subfield>
+    <subfield code="x">Economic aspects</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Ticino</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Agriculture</subfield>
+    <subfield code="x">Economic aspects</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Valais</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">GESCHICHTE DER LANDWIRTSCHAFT</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000030670</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KANTON GRAUBÜNDEN (SCHWEIZ)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000005120</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KANTON TESSIN (SCHWEIZ)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000006020</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KANTON WALLIS (SCHWEIZ)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000005799</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">"1500/1800"</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Graubünden (Switzerland)</subfield>
+    <subfield code="x">Social conditions</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Ticino (Switzerland)</subfield>
+    <subfield code="x">Social conditions</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Valais (Switzerland)</subfield>
+    <subfield code="x">Social conditions</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Alpes rhétiques (chaîne)</subfield>
+    <subfield code="0">(RERO)A009956411</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Grisons (Suisse)</subfield>
+    <subfield code="0">(IDREF)027228517</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Alpes</subfield>
+    <subfield code="0">(IDREF)027259285</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Valais (Suisse)</subfield>
+    <subfield code="0">(IDREF)027303063</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Tessin (Suisse)</subfield>
+    <subfield code="0">(IDREF)027264424</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Tessin</subfield>
+    <subfield code="0">(DE-588)4078208-6</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Wallis</subfield>
+    <subfield code="0">(DE-588)4064466-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Alpen</subfield>
+    <subfield code="0">(DE-588)4001328-5</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Hochschulschrift</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Agrargeschichte. Schweiz</subfield>
+    <subfield code="2">ubs-AF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Agrargeschichte. Graubünden</subfield>
+    <subfield code="2">ubs-AF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Agrargeschichte. Tessin</subfield>
+    <subfield code="2">ubs-AF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Agrargeschichte. Wallis</subfield>
+    <subfield code="2">ubs-AF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Wirtschaft. Schweiz</subfield>
+    <subfield code="2">ubs-AF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Alpen</subfield>
+    <subfield code="2">ubs-AF</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Agrargeschichte, Schweiz, Alpen</subfield>
+    <subfield code="2">ubs-A6</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Alpen, Schweizer : Landwirtschaft</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Landwirtschaft. Schweiz: Alpen, B: inneralpines Gebiet. Geschichte. 16/18. Jh</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Bergregion. Schweiz, B: Landwirtschaft. Geschichte. 16/18. Jh</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Inneralpines Gebiet, B: Landwirtschaft. Geschichte. 16/18. Jh</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Agrargeschichte</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Alpen</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden. Wirtschaftsgeschichte</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Tessin (Kt.). Geschichte</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Wallis (Kt.). Wirtschaftsgeschichte</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Alpen</subfield>
+    <subfield code="2">fhnw-E8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">fhnw-E8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Wallis</subfield>
+    <subfield code="2">fhnw-E8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Tessin</subfield>
+    <subfield code="2">fhnw-E8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Landwirtschaft</subfield>
+    <subfield code="2">fhnw-E8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Geschichte 1500-1800</subfield>
+    <subfield code="2">fhnw-E8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Landwirtschaft</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Alpwirtschaft</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Wallis</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Tessin</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">182b</subfield>
+    <subfield code="d">Kulturlandschaftsgeschichte, Landschaftsveränderungen</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">215</subfield>
+    <subfield code="d">Schweiz: Agrarraum, Landwirtschaft</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">230</subfield>
+    <subfield code="d">Alpen (Schweiz)</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">239</subfield>
+    <subfield code="d">Graubünden: Ganzer Kanton</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">247</subfield>
+    <subfield code="d">Tessin: Ganzer Kanton</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">252</subfield>
+    <subfield code="d">Wallis: Ganzer Kanton</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Tessin : Geschichte 1500-1800</subfield>
+    <subfield code="2">uzb-VH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Wallis : Geschichte 1500-1800</subfield>
+    <subfield code="2">uzb-VH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">uzb-VH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Landwirtschaft : Geschichte 1500-1800</subfield>
+    <subfield code="2">uzb-VH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">*EJ02</subfield>
+    <subfield code="d">Historical Switzerland - historische Schweiz (vor 1848)</subfield>
+    <subfield code="2">uzb-UI</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">*EJ04</subfield>
+    <subfield code="d">French Swiss - französische Schweiz</subfield>
+    <subfield code="2">uzb-UI</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">*EJ05</subfield>
+    <subfield code="d">German Swiss - deutsche Schweiz</subfield>
+    <subfield code="2">uzb-UI</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">*EJ06</subfield>
+    <subfield code="d">Italian Swiss - italienische Schweiz</subfield>
+    <subfield code="2">uzb-UI</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">085</subfield>
+    <subfield code="d">Economics - Wirtschaft</subfield>
+    <subfield code="2">uzb-UI</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">170.01</subfield>
+    <subfield code="d">Social change - sozialer Wandel</subfield>
+    <subfield code="2">uzb-UI</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">170.02</subfield>
+    <subfield code="d">Economic change - wirtschaftlicher Wandel</subfield>
+    <subfield code="2">uzb-UI</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Alpen</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="691">
+    <subfield code="e">338.109494</subfield>
+    <subfield code="a">Agricoltura. Svizzera</subfield>
+    <subfield code="2">usi-TE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">REROnoselfmerge</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSE5E87ANH-2006</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSE8949.42</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZ1ZH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>

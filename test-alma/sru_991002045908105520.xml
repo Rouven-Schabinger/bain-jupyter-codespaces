@@ -1,0 +1,42 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00617nam a2200169 c 4500</leader>
+  <controlfield tag="001">991002045908105520</controlfield>
+  <controlfield tag="005">20241203141249.0</controlfield>
+  <controlfield tag="008">950208s1845    sz       |||| 000 0 ger|d</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)207538026-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">207538026</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)011293997EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(OCoLC)84349566</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991034891859705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SLB</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Entwurf einer Verfassung für den Kanton Graubünden</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="b">S. Benedict</subfield>
+    <subfield code="c">1845</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 Band</subfield>
+    <subfield code="c">8°</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="g">Beilage</subfield>
+    <subfield code="t">Vorschlag einer Eintheilung des Kantons in Bezirke und Kreise, so wie zu Feststellung ihrer Repräsentanz in Landessachen</subfield>
+  </datafield>
+</record>

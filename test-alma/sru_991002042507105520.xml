@@ -1,0 +1,245 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02847nam a2200745 c 4500</leader>
+  <controlfield tag="001">991002042507105520</controlfield>
+  <controlfield tag="005">20231208104544.0</controlfield>
+  <controlfield tag="008">201012t19871987sz            00| | ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3908133378</subfield>
+  </datafield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">http://catalogue.bnf.fr/ark:/12148/cb349536288</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)236207989-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">236207989</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)003044698EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(RERO)0910546-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)000363283DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSLU)000035943ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991010916829705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS BS/BE A100</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ar</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ha</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">sg</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ag</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">630</subfield>
+    <subfield code="2">IDS LU</subfield>
+  </datafield>
+  <datafield ind1="7" ind2="4" tag="082">
+    <subfield code="a">930</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">936.3</subfield>
+    <subfield code="2">20</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">936.402</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">949.4</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">930</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">6,14</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">NH 7770</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">NH 7790</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Beiträge zur Raetia Romana</subfield>
+    <subfield code="b">Voraussetzungen und Folgen der Eingliederung Rätiens ins römische Reich, herausgegeben von der Historisch-antiquarischen Gesellschaft von Graubünden</subfield>
+    <subfield code="c">im terra grischuna buchverlag</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="b">Terra Grischuna Buchverlag</subfield>
+    <subfield code="c">1987</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="264">
+    <subfield code="c">© 1987</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">240 pages</subfield>
+    <subfield code="b">illustrations</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Römerzeit</subfield>
+    <subfield code="0">(DE-588)4076769-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Geschichte</subfield>
+    <subfield code="0">(DE-588)4020517-4</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Romans</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Expansion territoriale</subfield>
+    <subfield code="z">Rome</subfield>
+    <subfield code="0">(IDREF)195064933</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Rätien</subfield>
+    <subfield code="0">(DE-588)4048263-7</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Graubünden (Switzerland)</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Raetia</subfield>
+    <subfield code="x">Civilization</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Rhétie (province romaine)</subfield>
+    <subfield code="0">(IDREF)02750381X</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Rätien</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Römer</subfield>
+    <subfield code="z">Rätien</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Aufsatzsammlung</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">[Études diverses]</subfield>
+    <subfield code="0">(RERO)A022249905</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Rätien</subfield>
+    <subfield code="2">uzb-Z9</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Römerzeit</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Rätien</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Römer. Schweiz: Graubünden-Kt.</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Rhätien (Provinz, Rom-Reich). Geschichte. Altertum. A.</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Rätien</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden (Kt.). Geschichte. bis 1500</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Römisches Reich</subfield>
+    <subfield code="2">rzs-L2</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Degen, Rudolf</subfield>
+    <subfield code="0">(IDREF)196467829</subfield>
+    <subfield code="4">ctb</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="710">
+    <subfield code="a">Historisch-antiquarische Gesellschaft von Graubünden</subfield>
+    <subfield code="6">880-03</subfield>
+    <subfield code="0">(DE-588)1004812-1</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="880">
+    <subfield code="6">710-03</subfield>
+    <subfield code="a">Historische Gesellschaft von Graubünden</subfield>
+    <subfield code="g">Suisse</subfield>
+    <subfield code="g">1826-....</subfield>
+    <subfield code="0">(IDREF)029199271</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="880">
+    <subfield code="a">Historisch-Antiquarische Gesellschaft von Graubünden</subfield>
+    <subfield code="6">710-03</subfield>
+    <subfield code="0">(DE-588)1004812-1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZRMedeaZBZ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">REROnoselfmerge</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,23 @@
+2026-04-25 09:26:24,544 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dfhgr&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=3
+2026-04-25 09:26:24,547 - WARNING - No record found for query alma.title=fhgr
+2026-04-25 09:26:59,556 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dgraub%C3%BCnden&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=3
+2026-04-25 09:26:59,559 - WARNING - SruRequest('alma.title=graubünden', limit=3, base_url='https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH'): number of available results exceed the limit provided
+2026-04-25 09:26:59,560 - INFO - Records 1 - 3 / 338, "alma.title=graubünden": 3
+2026-04-25 09:32:25,191 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dgraub%C3%BCnden&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=10
+2026-04-25 09:32:25,195 - WARNING - SruRequest('alma.title=graubünden', limit=10, base_url='https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH'): number of available results exceed the limit provided
+2026-04-25 09:32:25,195 - INFO - Records 1 - 10 / 338, "alma.title=graubünden": 10
+2026-04-25 09:33:21,109 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dgraub%C3%BCnden&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=50
+2026-04-25 09:33:21,116 - WARNING - SruRequest('alma.title=graubünden', limit=100, base_url='https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH'): number of available results exceed the limit provided
+2026-04-25 09:33:21,118 - INFO - Records 1 - 50 / 338, "alma.title=graubünden": 50
+2026-04-25 09:33:25,255 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dgraub%C3%BCnden&version=1.2&operation=searchRetrieve&startRecord=51&maximumRecords=50
+2026-04-25 09:33:25,262 - WARNING - SruRequest('alma.title=graubünden', limit=100, base_url='https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH'): number of available results exceed the limit provided
+2026-04-25 09:33:25,264 - INFO - Records 51 - 100 / 338, "alma.title=graubünden": 50
+2026-04-25 09:33:25,412 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dgraub%C3%BCnden&version=1.2&operation=searchRetrieve&startRecord=101&maximumRecords=0
+2026-04-25 09:33:25,414 - WARNING - SruRequest('alma.title=graubünden', limit=100, base_url='https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH'): number of available results exceed the limit provided
+2026-04-25 09:33:25,415 - WARNING - No record found for query alma.title=graubünden
+2026-04-25 09:34:36,674 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dgraub%C3%BCnden&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=50
+2026-04-25 09:34:36,681 - WARNING - SruRequest('alma.title=graubünden', limit=50, base_url='https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH'): number of available results exceed the limit provided
+2026-04-25 09:34:36,682 - INFO - Records 1 - 50 / 338, "alma.title=graubünden": 50
+2026-04-25 09:34:36,774 - INFO - SRU data fetched: https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH?query=alma.title%3Dgraub%C3%BCnden&version=1.2&operation=searchRetrieve&startRecord=51&maximumRecords=0
+2026-04-25 09:34:36,776 - WARNING - SruRequest('alma.title=graubünden', limit=50, base_url='https://eu03-psb.alma.exlibrisgroup.com/view/sru/41SLSP_HPH'): number of available results exceed the limit provided
+2026-04-25 09:34:36,776 - WARNING - No record found for query alma.title=graubünden

@@ -1,0 +1,53 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00738naa a2200193 c 4500</leader>
+  <controlfield tag="001">991002050330005520</controlfield>
+  <controlfield tag="005">20260206161426.0</controlfield>
+  <controlfield tag="008">050929s1998    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)191564664-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">191564664</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009089507EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991007743139705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Besl, Friedrich R.</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Febris flava ad portas</subfield>
+    <subfield code="b">Massnahmen in Liechtenstein und Graubünden gegen eine Epidemie 1804/05</subfield>
+    <subfield code="c">Friedrich R. Besl</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Liechtenstein</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Bündner Monatsblatt</subfield>
+    <subfield code="g">1998, Nr. 4, S. 264-273</subfield>
+    <subfield code="g">yr:1998</subfield>
+    <subfield code="g">no:1998</subfield>
+    <subfield code="w">(NEBIS)001001827EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="f">IDSU2medea</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

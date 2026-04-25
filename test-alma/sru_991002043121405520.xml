@@ -1,0 +1,63 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00904nam a2200229 c 4500</leader>
+  <controlfield tag="001">991002043121405520</controlfield>
+  <controlfield tag="005">20230414054902.0</controlfield>
+  <controlfield tag="008">950707s1988    sz            00| | ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3729810529</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)172341701-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">172341701</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)006234892EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991099643049705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS BS/BE B400</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">[Kulturwege in Graubünden, Heft 2]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="250">
+    <subfield code="a">3., überarb. Aufl.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="b">Terra Grischuna</subfield>
+    <subfield code="c">1988</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">48 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Kulturwege in Graubünden</subfield>
+    <subfield code="v">Heft 2, Ed. 3</subfield>
+  </datafield>
+  <datafield ind1="4" ind2=" " tag="856">
+    <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+    <subfield code="u">https://toc.library.ethz.ch/objects/pdf/e65_3-7298-1052-9_01.pdf</subfield>
+    <subfield code="q">pdf</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="800">
+    <subfield code="a">Meier, Erhard</subfield>
+    <subfield code="t">Kulturwege in Graubünden</subfield>
+    <subfield code="v">2/3</subfield>
+    <subfield code="w">(NEBIS)000032893EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="949">
+    <subfield code="a">https://toc.library.ethz.ch/objects/pdf/e65_3-7298-1052-9_01.pdf</subfield>
+  </datafield>
+</record>

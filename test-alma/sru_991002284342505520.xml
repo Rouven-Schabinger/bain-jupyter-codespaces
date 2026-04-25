@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00000naa a22000000i 4500</leader>
+  <controlfield tag="001">991002284342505520</controlfield>
+  <controlfield tag="008">s2014    xx                  ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">oai:boris-portal.unibe.ch:20.500.12422/118880</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991172931596305501</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="041">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">900</subfield>
+    <subfield code="2">23</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Boscani Leoni, Simona Giovanna Alba</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Florian Hitz. Fürsten, Vögte und Gemeinden: politische Kultur zwischen Habsburg und Graubünden im 15. bis 17. Jahrhundert (Baden 2012)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="c">2014</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 Online-Ressource (3)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="506">
+    <subfield code="a">metadata only access</subfield>
+    <subfield code="u">http://purl.org/coar/access_right/c_14cb</subfield>
+    <subfield code="2">coar</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Article</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="0" tag="856">
+    <subfield code="u">https://boris-portal.unibe.ch/handle/20.500.12422/118880</subfield>
+    <subfield code="7">u</subfield>
+  </datafield>
+</record>

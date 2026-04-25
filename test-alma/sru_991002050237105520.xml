@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00795naa a2200193 c 4500</leader>
+  <controlfield tag="001">991002050237105520</controlfield>
+  <controlfield tag="005">20260206161646.0</controlfield>
+  <controlfield tag="008">091113s2009    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)193887533-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">193887533</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009493232EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991160046079705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Bernhard, Jan-Andrea</subfield>
+    <subfield code="d">1971-</subfield>
+    <subfield code="0">(DE-588)130036021</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">"Ich bin nur einmal Freund ... Dess will ich stets verbleiben"</subfield>
+    <subfield code="b">Gelehrtenkontakte zwischen Ungarn und Graubünden (1650-1800)</subfield>
+    <subfield code="c">Jan-Andrea Bernhard</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Student</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Ungarn</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Bündner Monatsblatt</subfield>
+    <subfield code="g">2009, H. 4, S. 361-390</subfield>
+    <subfield code="g">yr:2009</subfield>
+    <subfield code="g">no:2009</subfield>
+    <subfield code="w">(NEBIS)001001827EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

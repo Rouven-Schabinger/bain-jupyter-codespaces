@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>338</numberOfRecords>
+  <records>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00795naa a2200193 c 4500</leader>
+          <controlfield tag="001">991002050237105520</controlfield>
+          <controlfield tag="005">20260206161646.0</controlfield>
+          <controlfield tag="008">091113s2009    sz            00| | ger^^</controlfield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)193887533-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">193887533</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NEBIS)009493232EBI01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991160046079705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Bernhard, Jan-Andrea</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="0">(DE-588)130036021</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"Ich bin nur einmal Freund ... Dess will ich stets verbleiben"</subfield>
+            <subfield code="b">Gelehrtenkontakte zwischen Ungarn und Graubünden (1650-1800)</subfield>
+            <subfield code="c">Jan-Andrea Bernhard</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="690">
+            <subfield code="a">Student</subfield>
+            <subfield code="2">rzh-UA</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="690">
+            <subfield code="a">Ungarn</subfield>
+            <subfield code="2">rzh-UA</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="690">
+            <subfield code="a">Graubünden</subfield>
+            <subfield code="2">rzh-UA</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="773">
+            <subfield code="t">Bündner Monatsblatt</subfield>
+            <subfield code="g">2009, H. 4, S. 361-390</subfield>
+            <subfield code="g">yr:2009</subfield>
+            <subfield code="g">no:2009</subfield>
+            <subfield code="w">(NEBIS)001001827EBI01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="998">
+            <subfield code="a">no_inventory_analytical</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>991002050237105520</recordIdentifier>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00000nam a22000000i 4500</leader>
+          <controlfield tag="001">991002278431505520</controlfield>
+          <controlfield tag="008">s2019    xx                  ger d</controlfield>
+          <datafield ind1="7" ind2=" " tag="024">
+            <subfield code="a">10.7892/boris.140361</subfield>
+            <subfield code="2">doi</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">oai:boris-portal.unibe.ch:20.500.12422/34015</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991172925714305501</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">940</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">"Unglaubliche Bergwunder". Johann Jakob Scheuchzer und Graubünden. Ausgewählte Briefe 1699-1707</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="c">2019</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 Online-Ressource (162)</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="506">
+            <subfield code="a">open access</subfield>
+            <subfield code="f">Unrestricted online access</subfield>
+            <subfield code="u">http://purl.org/coar/access_right/c_abf2</subfield>
+            <subfield code="2">coar</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Book</subfield>
+            <subfield code="2">local</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Boscani Leoni, Simona Giovanna Alba</subfield>
+            <subfield code="e">editor</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Institut für Kulturforschung Graubünden, ikg</subfield>
+            <subfield code="e">editor</subfield>
+          </datafield>
+          <datafield ind1="4" ind2="0" tag="856">
+            <subfield code="u">https://boris-portal.unibe.ch/handle/20.500.12422/34015</subfield>
+            <subfield code="7">0</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>991002278431505520</recordIdentifier>
+      <recordPosition>2</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>00904nam a2200229 c 4500</leader>
+          <controlfield tag="001">991002043121405520</controlfield>
+          <controlfield tag="005">20230414054902.0</controlfield>
+          <controlfield tag="008">950707s1988    sz            00| | ger d</controlfield>
+          <datafield ind1=" " ind2=" " tag="020">
+            <subfield code="a">3729810529</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)172341701-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">172341701</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NEBIS)006234892EBI01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991099643049705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS BS/BE B400</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">[Kulturwege in Graubünden, Heft 2]</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="250">
+            <subfield code="a">3., überarb. Aufl.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">Chur</subfield>
+            <subfield code="b">Terra Grischuna</subfield>
+            <subfield code="c">1988</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">48 S.</subfield>
+            <subfield code="b">Ill.</subfield>
+            <subfield code="c">21 cm</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="490">
+            <subfield code="a">Kulturwege in Graubünden</subfield>
+            <subfield code="v">Heft 2, Ed. 3</subfield>
+          </datafield>
+          <datafield ind1="4" ind2=" " tag="856">
+            <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="u">https://toc.library.ethz.ch/objects/pdf/e65_3-7298-1052-9_01.pdf</subfield>
+            <subfield code="q">pdf</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="800">
+            <subfield code="a">Meier, Erhard</subfield>
+            <subfield code="t">Kulturwege in Graubünden</subfield>
+            <subfield code="v">2/3</subfield>
+            <subfield code="w">(NEBIS)000032893EBI01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="900">
+            <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="949">
+            <subfield code="a">https://toc.library.ethz.ch/objects/pdf/e65_3-7298-1052-9_01.pdf</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>991002043121405520</recordIdentifier>
+      <recordPosition>3</recordPosition>
+    </record>
+  </records>
+  <nextRecordPosition>4</nextRecordPosition>
+  <extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+    <xb:exact>true</xb:exact>
+    <xb:responseDate>2026-04-25T11:26:59+0200</xb:responseDate>
+  </extraResponseData>
+</searchRetrieveResponse>

@@ -1,0 +1,333 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>04237nam a2200937uc 4500</leader>
+  <controlfield tag="001">991002042612205520</controlfield>
+  <controlfield tag="005">20251127162247.0</controlfield>
+  <controlfield tag="008">201011s1948    sz     |      00| ||ger|d</controlfield>
+  <datafield ind1=" " ind2=" " tag="019">
+    <subfield code="a">Datenimport aus BIBDIA ZB Solothurn</subfield>
+    <subfield code="5">IDSBB/09.01.2019/A150/bmt</subfield>
+  </datafield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">http://catalogue.bnf.fr/ark:/12148/cb32536394k</subfield>
+    <subfield code="2">uri</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)219555184-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">219555184</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)001283319EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSLU)000163240ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)011008400EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(SBT)000023072SBT01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSSG)000158301HSB01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)006869108DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(RERO)0145657-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(ABN)000036478ABN01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991085183259705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">ZBZ</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">ETHICS-ISBD</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">460</subfield>
+    <subfield code="2">IDS LU</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ba</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="080">
+    <subfield code="a">7(494)</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="080">
+    <subfield code="a">904"15/-"(4CH)</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">720/.9494/73</subfield>
+    <subfield code="2">22</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">LL 76000</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Poeschel, Erwin</subfield>
+    <subfield code="d">1884-1965</subfield>
+    <subfield code="0">(IDREF)256641943</subfield>
+    <subfield code="4">cre</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Chur und der Kreis fünf Dörfer</subfield>
+    <subfield code="c">von Erwin Poeschel</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Basel</subfield>
+    <subfield code="b">Birkhäuser</subfield>
+    <subfield code="c">1948</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">XII, 476 p.</subfield>
+    <subfield code="b">ill.</subfield>
+    <subfield code="c">26 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Die Kunstdenkmäler des Kantons Graubünden</subfield>
+    <subfield code="v">7</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Die Kunstdenkmäler der Schweiz</subfield>
+    <subfield code="v">20</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="504">
+    <subfield code="a">Literaturverz.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Kunstwerk</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">CHUR, STADT UND EHEMALIGER KREIS (KANTON GRAUBÜNDEN)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000052989</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">FÜNF DÖRFER, EHEMALIGER KREIS (KANTON GRAUBÜNDEN)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000052997</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">INVENTARE VON KULTURDENKMÄLERN</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000035448</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KUNSTDENKMÄLER (DENKMALPFLEGE)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000047252</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KUNSTGESCHICHTE</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000035233</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Kunst</subfield>
+    <subfield code="0">(DE-588)4114333-4</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Topografie</subfield>
+    <subfield code="g">Kunst</subfield>
+    <subfield code="0">(DE-588)4130619-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Architektur</subfield>
+    <subfield code="0">(DE-588)4002851-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Kunst und Kultur</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000013742ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Kunstgeschichte</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000013753ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Denkmal</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000005440ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Monuments historiques</subfield>
+    <subfield code="0">(IDREF)027239829</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Unterlandquart (Bezirk)</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Maienfeld (Kreis)</subfield>
+    <subfield code="0">(DE-588c)4557594-0</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Chur</subfield>
+    <subfield code="0">(DE-588)4010189-7</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000019912ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000010274ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Coire (Suisse ; région)</subfield>
+    <subfield code="0">(IDREF)032714440</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Handbuch</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Chur. Inventar</subfield>
+    <subfield code="2">uzb-US</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Chur. Kathedrale</subfield>
+    <subfield code="2">uzb-US</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Chur. Städtebau</subfield>
+    <subfield code="2">uzb-US</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden. Inventar</subfield>
+    <subfield code="2">uzb-US</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Kunstdenkmäler. Schweiz: Graubünden-Kt.: Chur. A. Handbuch</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Kunstdenkmäler. Schweiz: Graubünden-Kt.: Fünf Dörfer-Kreis. A. Handbuch</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Chur, B: Kunstdenkmäler. Handbuch</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Fünf Dörfer-Kreis (GR), B: Kunstdenkmäler. Handbuch</subfield>
+    <subfield code="2">rzs-L1</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Chur : Kunst</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="691">
+    <subfield code="e">700(494)</subfield>
+    <subfield code="2">usi-TM</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="800">
+    <subfield code="a">Poeschel, Erwin</subfield>
+    <subfield code="t">&lt;&lt;Die&gt;&gt; Kunstdenkmäler des Kantons Graubünden</subfield>
+    <subfield code="v">7</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="800">
+    <subfield code="a">Poeschel, Erwin</subfield>
+    <subfield code="d">1884-1965</subfield>
+    <subfield code="t">&lt;&lt;Die&gt;&gt; Kunstdenkmäler des Kantons Graubünden</subfield>
+    <subfield code="v">7</subfield>
+    <subfield code="w">(NEBIS)001025906EBI01</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="800">
+    <subfield code="a">Poeschel, Erwin</subfield>
+    <subfield code="d">1884-1965</subfield>
+    <subfield code="t">&lt;&lt;Die&gt;&gt; Kunstdenkmäler des Kantons Graubünden</subfield>
+    <subfield code="v">7</subfield>
+    <subfield code="w">(RERO)0145658-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; Kunstdenkmäler der Schweiz</subfield>
+    <subfield code="v">20</subfield>
+    <subfield code="w">(IDSSG)000109085HSB01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; Kunstdenkmäler des Kantons Graubünden</subfield>
+    <subfield code="v">7</subfield>
+    <subfield code="w">(IDSLU)000163239ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; Kunstdenkmäler der Schweiz</subfield>
+    <subfield code="v">20</subfield>
+    <subfield code="w">(SBT)000000119SBT01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; Kunstdenkmäler der Schweiz</subfield>
+    <subfield code="v">20</subfield>
+    <subfield code="w">(IDSLU)000163215ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; Kunstdenkmäler der Schweiz</subfield>
+    <subfield code="v">20</subfield>
+    <subfield code="w">(RERO)0009488-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSE5E86ANH-2005</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGRIMPORT</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>

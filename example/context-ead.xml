@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EAD:ead xmlns:EAD="urn:isbn:1-931666-22-9" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <EAD:eadheader>
+      <EAD:eadid/>
+      <EAD:filedesc>
+         <EAD:titlestmt>
+            <EAD:titleproper/>
+         </EAD:titlestmt>
+      </EAD:filedesc>
+   </EAD:eadheader>
+   <EAD:archdesc level="otherlevel" otherlevel="archive">
+      <EAD:did>
+         <EAD:unittitle label="main">Republik der vergessenen Erinnerungen</EAD:unittitle>
+         <EAD:langmaterial>
+            <EAD:language>Deutsch, z. T. alte Schriften</EAD:language>
+         </EAD:langmaterial>
+         <EAD:unitid type="refCodeOld">RVE</EAD:unitid>
+         <EAD:unitid type="refCodeAdmin">1</EAD:unitid>
+         <EAD:unitid type="isVisible">true</EAD:unitid>
+         <EAD:physdesc>
+            <EAD:extent unit="shelfkm">135</EAD:extent>
+            <EAD:physfacet>text</EAD:physfacet>
+         </EAD:physdesc>
+         <EAD:unitdate label="date">1830</EAD:unitdate>
+      </EAD:did>
+      <EAD:acqinfo>
+         <EAD:p>Ja</EAD:p>
+      </EAD:acqinfo>
+      <EAD:accessrestrict type="restrictions">
+         <EAD:p>Zugang gemäss Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) vom 24. Oktober 2006.<EAD:lb/>
+         </EAD:p>
+      </EAD:accessrestrict>
+      <EAD:phystech>
+         <EAD:p>Die Unterlagen sind mehrheitlich in gutem Zustand, die Ausnahmen sind vermerkt. Einzelne Unterlagen sind aus Pergament, Holz oder Metall.</EAD:p>
+      </EAD:phystech>
+      <EAD:otherfindaid>
+         <EAD:p>Dossierverzeichnis (pdf; bei Docuteam als Datenbank)</EAD:p>
+      </EAD:otherfindaid>
+      <EAD:appraisal>
+         <EAD:p>Die Bewertung 2012 erfolgte auf Grundlage der geltenden gesetzlichen Bestimmungen.</EAD:p>
+      </EAD:appraisal>
+      <EAD:processinfo type="rules">
+         <EAD:p>Erschlossen nach ISAD(G).</EAD:p>
+      </EAD:processinfo>
+      <EAD:processinfo type="date">
+         <EAD:p>Erschliessung November 2012 bis April 2013</EAD:p>
+      </EAD:processinfo>
+      <EAD:dsc>
+         <EAD:c level="otherlevel" otherlevel="division">
+            <EAD:did>
+               <EAD:unittitle label="main">Institutionelle Archive</EAD:unittitle>
+               <EAD:unitid type="refCode">3579</EAD:unitid>
+               <EAD:unitid type="refCodeAdmin">3579</EAD:unitid>
+               <EAD:unitid type="isVisible">false</EAD:unitid>
+               <EAD:unitid type="separator">.</EAD:unitid>
+               <EAD:physdesc>
+                  <EAD:extent unit="shelfkm">130</EAD:extent>
+                  <EAD:physfacet>text</EAD:physfacet>
+               </EAD:physdesc>
+               <EAD:unitdate label="date">18. Juli 1830 - </EAD:unitdate>
+               <EAD:unitdate label="from">18300718</EAD:unitdate>
+            </EAD:did>
+            <EAD:accessrestrict type="restrictions">
+               <EAD:p>Die Gründungsdokumente der Republik werden im Nationalmuseum der Republik ausgestellt</EAD:p>
+            </EAD:accessrestrict>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Originalsammlungen von Gesetzen und Dekreten</EAD:unittitle>
+                  <EAD:unitid type="refCode">A</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3581</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfm">3</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1830 - </EAD:unitdate>
+                  <EAD:unitdate label="from">18300718</EAD:unitdate>
+               </EAD:did>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Gründungsurkunden</EAD:unittitle>
+                     <EAD:unitid type="refCode">1</EAD:unitid>
+                     <EAD:unitid type="refCodeOld">ARC-01</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3590</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">15</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="date">18.07.1830</EAD:unitdate>
+                     <EAD:unitdate label="from">18311218</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:c level="otherlevel" otherlevel="series">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Organigramm der ersten Republik</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.1</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3591</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfm">2</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="to">19700718</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="item">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Verfassungscharta von 1830</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.2</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3592</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="cm">3</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="date">Jahr I der Republik</EAD:unitdate>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                     <EAD:scopecontent>
+                        <EAD:p>GRÜNDUNGSURKUNDE DER REPUBLIK DER VERGESSENEN ERINNERUNG<EAD:lb/>
+                           <EAD:lb/>Wir, das Volk der Republik der Vergessenen Erinnerung, beseelt von dem tiefen Wunsch, das individuelle und kollektive Gedächtnis zu bewahren, die Rechte der Bürger in Bezug auf das Gedächtnis zu schützen und eine Nation zu fördern, die auf ethischen Grundsätzen und der Bewahrung der nationalen Identität beruht, erklären hiermit die Gründung unserer Nation.<EAD:lb/>
+                           <EAD:lb/>Artikel 1: Unabhängigkeit und Souveränität<EAD:lb/>- Im Bewusstsein unserer Geschichte und unseres mnemotechnischen Erbes verkünden wir unsere Unabhängigkeit von allen ausländischen Autoritäten. Die Republik des Vergessenen Gedächtnisses ist eine souveräne Nation, die frei ist, ihre eigenen Gesetze und Institutionen zu definieren.<EAD:lb/>
+                           <EAD:lb/>Artikel 2: Achtung des Gedächtnisses und der Privatsphäre<EAD:lb/>- Wir erkennen das Gedächtnis als ein wertvolles Gut unserer Nation an. Das individuelle und kollektive Gedächtnis jedes Bürgers muss respektiert und geschützt werden,<EAD:lb/>- Die Privatsphäre in Bezug auf das Gedächtnis ist ein Grundrecht jedes Bürgers. Ungerechtfertigte Eingriffe in persönliche Erinnerungen werden nicht toleriert.<EAD:lb/>
+                           <EAD:lb/>Artikel 3: Förderung des Gedächtnisses und der Gedächtnisforschung<EAD:lb/>- Die Republik des Vergessenen Gedächtnisses verpflichtet sich, die Gedächtnisforschung und die Bewahrung des individuellen und kollektiven Gedächtnisses zu fördern. Zu diesem Zweck werden Institutionen wie das Nationalarchiv des Vergessenen Gedächtnisses eingerichtet.<EAD:lb/>- Die Gedächtnisbildung ist ein Grundpfeiler unserer Nation. Wir werden in die Ausbildung der Bürger investieren, damit sie den Wert des Gedächtnisses und der Mnemotechnik verstehen.<EAD:lb/>
+                           <EAD:lb/>Artikel 4: Ethik der Erinnerung<EAD:lb/>- Die Republik des Vergessenen Gedächtnisses verpflichtet sich, den ethischen Gebrauch der Mnemotechnik zu fördern. Es werden Gesetze und Regulierungen ausgearbeitet, um sicherzustellen, dass die Mnemotechnik nicht missbraucht wird.<EAD:lb/>
+                           <EAD:lb/>Artikel 5: Internationale Zusammenarbeit<EAD:lb/>- Wir werden die Zusammenarbeit mit anderen Nationen suchen, um Wissen und Ressourcen in Bezug auf Gedächtnis, Mnemotechnik und Ethik zu teilen.<EAD:lb/>- Wir verpflichten uns, die internationalen Standards in Bezug auf Gedächtnis und Mnemotechnik einzuhalten.<EAD:lb/>
+                           <EAD:lb/>Artikel 6: Demokratische Prinzipien<EAD:lb/>- Die Republik der Vergessenen Erinnerung wird eine Demokratie sein, in der das Volk sein Recht ausübt, an der Regierung teilzunehmen und seine Führer zu wählen. Zu diesem Zweck werden freie und faire Wahlen abgehalten.<EAD:lb/>
+                           <EAD:lb/>Artikel 7: Inkrafttreten<EAD:lb/>- Diese Gründungsurkunde tritt mit ihrer Unterzeichnung in Kraft.<EAD:lb/>
+                           <EAD:lb/>
+                           <EAD:lb/>Unterzeichnet und verkündet an diesem historischen Tag,<EAD:lb/>Am 18. Juli 1830<EAD:lb/>Jonathan Leclerc<EAD:lb/>Erster Präsident der Republik der Vergessenen Erinnerung<EAD:lb/>
+                           <EAD:lb/>
+                        </EAD:p>
+                     </EAD:scopecontent>
+                     <EAD:accessrestrict type="restrictions">
+                        <EAD:p>Die Charta wird im Nationalmuseum ausgestellt.</EAD:p>
+                     </EAD:accessrestrict>
+                     <EAD:custodhist>
+                        <EAD:p>Vor der Gründung des Nationalarchivs der vergessenen Erinnerung wurde die Charta im Büro des Vorsitzenden Jonathan Leclerc aufbewahrt. </EAD:p>
+                     </EAD:custodhist>
+                     <EAD:userestrict>
+                        <EAD:p>Vervielfältigung verboten - Digitale Kopie des Dokuments ansehen</EAD:p>
+                     </EAD:userestrict>
+                  </EAD:c>
+               </EAD:c>
+            </EAD:c>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Wahlen und Abstimmungen</EAD:unittitle>
+                  <EAD:unitid type="refCode">B</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3582</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfkm">8</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1830 - </EAD:unitdate>
+                  <EAD:unitdate label="from">18300718</EAD:unitdate>
+               </EAD:did>
+            </EAD:c>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Parlament der Erinnerung</EAD:unittitle>
+                  <EAD:unitid type="refCode">C</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3583</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfkm">25</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1830 - </EAD:unitdate>
+                  <EAD:unitdate label="from">18300718</EAD:unitdate>
+               </EAD:did>
+            </EAD:c>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Ministerien </EAD:unittitle>
+                  <EAD:unitid type="refCode">D</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3586</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfkm">45</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1830 -</EAD:unitdate>
+                  <EAD:unitdate label="from">18300718</EAD:unitdate>
+               </EAD:did>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Ministerium für die Archivierung von Erinnerungen </EAD:unittitle>
+                     <EAD:unitid type="refCode">1</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3593</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfkm">8</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18300718</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:scopecontent>
+                     <EAD:p>Insbesondere: Korrespondenz und Protokolle der Sitzungen der Ausschüsse des Ministeriums. </EAD:p>
+                  </EAD:scopecontent>
+                  <EAD:appraisal>
+                     <EAD:note type="retentionPeriod">
+                        <EAD:p>15</EAD:p>
+                     </EAD:note>
+                  </EAD:appraisal>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Direktion</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.1</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3600</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">2</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                     <EAD:c level="otherlevel" otherlevel="sub-file">
+                        <EAD:did>
+                           <EAD:unittitle label="main">Protokoll vom 25.08.1830</EAD:unittitle>
+                           <EAD:unitid type="refCode">1.1.1</EAD:unitid>
+                           <EAD:unitid type="refCodeAdmin">3601</EAD:unitid>
+                           <EAD:unitid type="isVisible">true</EAD:unitid>
+                           <EAD:unitid type="separator">.</EAD:unitid>
+                           <EAD:physdesc>
+                              <EAD:extent unit="cm">2</EAD:extent>
+                              <EAD:physfacet>text</EAD:physfacet>
+                           </EAD:physdesc>
+                           <EAD:unitdate label="from">18300825</EAD:unitdate>
+                        </EAD:did>
+                     </EAD:c>
+                     <EAD:c level="otherlevel" otherlevel="sub-file">
+                        <EAD:did>
+                           <EAD:unittitle label="main">Protokoll vom 25.02.1831</EAD:unittitle>
+                           <EAD:unitid type="refCode">1.1.2</EAD:unitid>
+                           <EAD:unitid type="refCodeAdmin">3602</EAD:unitid>
+                           <EAD:unitid type="isVisible">true</EAD:unitid>
+                           <EAD:unitid type="separator">.</EAD:unitid>
+                           <EAD:physdesc>
+                              <EAD:extent unit="cm">2</EAD:extent>
+                              <EAD:physfacet>text</EAD:physfacet>
+                           </EAD:physdesc>
+                           <EAD:unitdate label="from">18310225</EAD:unitdate>
+                        </EAD:did>
+                     </EAD:c>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Abteilung für das Sammeln von Souvenirs</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.2</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3603</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">4</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Abteilung für Konservierung und Aufbewahrung</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.4</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3605</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">1</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Abteilung für Klassifizierung und Katalogisierung</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.3</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3604</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">1</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Ministerium für die Wiedererlangung der Erinnerung </EAD:unittitle>
+                     <EAD:unitid type="refCode">2</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3594</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfkm">10</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18300718</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:scopecontent>
+                     <EAD:p>Insbesondere: Korrespondenz und Protokolle der Sitzungen der Ausschüsse des Ministeriums. </EAD:p>
+                  </EAD:scopecontent>
+                  <EAD:custodhist>
+                     <EAD:p>"Dies ist die Geschichte eines Schwindels. Ein Mann sieht, wie unter seinen Füßen die Fundamente wegbrechen, auf denen sein Gedächtnis aufgebaut war. Er entdeckt, dass seine persönlichsten Erinnerungen aus Szenen bestehen, die er nie erlebt hat. Sein Gedächtnis wird von heimlichen Bildern gestört, die es neu konfigurieren. Dies könnte der klassische Vorwand für ein Science-Fiction-Szenario sein (Verweben heterogener Zeitfäden, physische Erforschung des Gedächtnisses, Suche nach einem schwer fassbaren Bild). Ein Szenario, das verstörend und schön wäre wie das von Chris Markers La jetée. Nun handelt es sich hier aber um Waltz with Bashir (2008) von Ari Folman". (Ophir Lévy, "Valse avec Bachir d'Ari Folman ou la valse des images clandestines", Histoire@Politique, Nr. 8, Mai-August 2009)</EAD:p>
+                  </EAD:custodhist>
+                  <EAD:appraisal>
+                     <EAD:note type="retentionPeriod">
+                        <EAD:p>20</EAD:p>
+                     </EAD:note>
+                  </EAD:appraisal>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Direktion</EAD:unittitle>
+                        <EAD:unitid type="refCode">2.1</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3606</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">5</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                     <EAD:c level="otherlevel" otherlevel="sub-file">
+                        <EAD:did>
+                           <EAD:unittitle label="main">Protokoll vom 28.02.1831</EAD:unittitle>
+                           <EAD:unitid type="refCode">2.1.1</EAD:unitid>
+                           <EAD:unitid type="refCodeAdmin">3607</EAD:unitid>
+                           <EAD:unitid type="isVisible">true</EAD:unitid>
+                           <EAD:unitid type="separator">.</EAD:unitid>
+                           <EAD:physdesc>
+                              <EAD:extent unit="cm">4</EAD:extent>
+                              <EAD:physfacet>text</EAD:physfacet>
+                           </EAD:physdesc>
+                           <EAD:unitdate label="date">Anno III Ära Leclerc</EAD:unitdate>
+                           <EAD:unitdate label="from">18310228</EAD:unitdate>
+                        </EAD:did>
+                     </EAD:c>
+                     <EAD:c level="otherlevel" otherlevel="sub-file">
+                        <EAD:did>
+                           <EAD:unittitle label="main">Protokoll vom 25.03.1831</EAD:unittitle>
+                           <EAD:unitid type="refCode">2.1.2</EAD:unitid>
+                           <EAD:unitid type="refCodeAdmin">3608</EAD:unitid>
+                           <EAD:unitid type="isVisible">true</EAD:unitid>
+                           <EAD:unitid type="separator">.</EAD:unitid>
+                           <EAD:physdesc>
+                              <EAD:extent unit="cm">5</EAD:extent>
+                              <EAD:physfacet>text</EAD:physfacet>
+                           </EAD:physdesc>
+                           <EAD:unitdate label="from">18310325</EAD:unitdate>
+                        </EAD:did>
+                     </EAD:c>
+                     <EAD:c level="otherlevel" otherlevel="sub-file">
+                        <EAD:did>
+                           <EAD:unittitle label="main">Protokoll vom 22.04.1831</EAD:unittitle>
+                           <EAD:unitid type="refCode">2.1.3</EAD:unitid>
+                           <EAD:unitid type="refCodeAdmin">3609</EAD:unitid>
+                           <EAD:unitid type="isVisible">true</EAD:unitid>
+                           <EAD:unitid type="separator">.</EAD:unitid>
+                           <EAD:physdesc>
+                              <EAD:extent unit="cm">5</EAD:extent>
+                              <EAD:physfacet>text</EAD:physfacet>
+                           </EAD:physdesc>
+                           <EAD:unitdate label="from">18310422</EAD:unitdate>
+                        </EAD:did>
+                     </EAD:c>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Forschungsabteilung für verlorene Erinnerungen</EAD:unittitle>
+                        <EAD:unitid type="refCode">2.2</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3610</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">3</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Abteilung zur Wiederherstellung der Erinnerung</EAD:unittitle>
+                        <EAD:unitid type="refCode">2.3</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3611</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">0.5</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Wiederherstellungsservice für gelöschte Erinnerungen</EAD:unittitle>
+                        <EAD:unitid type="refCode">2.4</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3612</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfkm">1.5</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">18300718</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Ministerium für Gedächtnismedizin </EAD:unittitle>
+                     <EAD:unitid type="refCode">5</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3598</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfkm">8</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18300718</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:scopecontent>
+                     <EAD:p>Insbesondere: Korrespondenz und Protokolle der Sitzungen der Ausschüsse des Ministeriums. </EAD:p>
+                  </EAD:scopecontent>
+                  <EAD:appraisal>
+                     <EAD:note type="retentionPeriod">
+                        <EAD:p>20</EAD:p>
+                     </EAD:note>
+                  </EAD:appraisal>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Ministerium für Historische Bildung</EAD:unittitle>
+                     <EAD:unitid type="refCode">3</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3595</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfkm">6</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18300718</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:scopecontent>
+                     <EAD:p>Insbesondere: Korrespondenz und Protokolle der Sitzungen der Ausschüsse des Ministeriums. </EAD:p>
+                  </EAD:scopecontent>
+                  <EAD:appraisal>
+                     <EAD:note type="retentionPeriod">
+                        <EAD:p>20</EAD:p>
+                     </EAD:note>
+                  </EAD:appraisal>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Ministerium für die Verhinderung des Vergessens</EAD:unittitle>
+                     <EAD:unitid type="refCode">4</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3596</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfkm">10</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18300718</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:scopecontent>
+                     <EAD:p>Insbesondere: Korrespondenz und Protokolle der Sitzungen der Ausschüsse des Ministeriums. </EAD:p>
+                  </EAD:scopecontent>
+                  <EAD:appraisal>
+                     <EAD:note type="retentionPeriod">
+                        <EAD:p>20</EAD:p>
+                     </EAD:note>
+                  </EAD:appraisal>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Ministerium für Zensur Mnemonik</EAD:unittitle>
+                     <EAD:unitid type="refCode">6</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3599</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfkm">3</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18300718</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:scopecontent>
+                     <EAD:p>Insbesondere: Korrespondenz und Protokolle der Sitzungen der Ausschüsse des Ministeriums. </EAD:p>
+                  </EAD:scopecontent>
+                  <EAD:appraisal>
+                     <EAD:note type="retentionPeriod">
+                        <EAD:p>20</EAD:p>
+                     </EAD:note>
+                  </EAD:appraisal>
+               </EAD:c>
+            </EAD:c>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Präsidium</EAD:unittitle>
+                  <EAD:unitid type="refCode">E</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3584</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfkm">12</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1830 - </EAD:unitdate>
+                  <EAD:unitdate label="from">18000000</EAD:unitdate>
+               </EAD:did>
+            </EAD:c>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Nationales Eigentum</EAD:unittitle>
+                  <EAD:unitid type="refCode">F</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3585</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfkm">15</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1830 - </EAD:unitdate>
+                  <EAD:unitdate label="from">18300718</EAD:unitdate>
+               </EAD:did>
+            </EAD:c>
+         </EAD:c>
+         <EAD:c level="otherlevel" otherlevel="division">
+            <EAD:did>
+               <EAD:unittitle label="main">Private Archive</EAD:unittitle>
+               <EAD:unitid type="refCode">3580</EAD:unitid>
+               <EAD:unitid type="refCodeAdmin">3580</EAD:unitid>
+               <EAD:unitid type="isVisible">false</EAD:unitid>
+               <EAD:unitid type="separator">.</EAD:unitid>
+               <EAD:physdesc>
+                  <EAD:extent unit="shelfkm">5</EAD:extent>
+                  <EAD:physfacet>text</EAD:physfacet>
+               </EAD:physdesc>
+               <EAD:unitdate label="date">Von 1780 bis 2023</EAD:unitdate>
+               <EAD:unitdate label="from">17800101</EAD:unitdate>
+               <EAD:unitdate label="to">20230228</EAD:unitdate>
+            </EAD:did>
+            <EAD:note>
+               <EAD:p>Diese Beschreibung ist noch in Bearbeitung.</EAD:p>
+            </EAD:note>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Bestand Familie Leclerc</EAD:unittitle>
+                  <EAD:unitid type="refCode">LECL</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3587</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfm">44</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1780-1890</EAD:unitdate>
+                  <EAD:unitdate label="from">17800101</EAD:unitdate>
+                  <EAD:unitdate label="to">18901231</EAD:unitdate>
+               </EAD:did>
+               <EAD:scopecontent>
+                  <EAD:p>Das Privatarchiv der Familie Leclerc ist eine private Sammlung von Dokumenten und Objekten, die die persönliche Geschichte der Familie Leclerc, einschließlich des Präsidenten Jonathan Leclerc, widerspiegeln. Dieses Archiv ist so organisiert, dass es das Leben, die Errungenschaften und die Erinnerungen der Familie dokumentiert.</EAD:p>
+               </EAD:scopecontent>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Familienkorrespondenz</EAD:unittitle>
+                     <EAD:unitid type="refCode">1.1</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3613</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">3</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">17800101</EAD:unitdate>
+                     <EAD:unitdate label="to">18780101</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Photographies et albums de famille</EAD:unittitle>
+                     <EAD:unitid type="refCode">1.2</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3614</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">4</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">17800101</EAD:unitdate>
+                     <EAD:unitdate label="to">18780101</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:accessrestrict type="accessRestrictionsClosureYear">
+                     <EAD:p>1880</EAD:p>
+                  </EAD:accessrestrict>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Geburts-, Heirats- und Sterbeurkunden</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.2.1</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3620</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfm">1</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">17800101</EAD:unitdate>
+                        <EAD:unitdate label="to">18671231</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Testamente und juristische Dokumente</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.2.3</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3622</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfm">7</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">17800101</EAD:unitdate>
+                        <EAD:unitdate label="to">18671231</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Diplome und Zertifikate</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.2.2</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3621</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfm">1</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">17800101</EAD:unitdate>
+                        <EAD:unitdate label="to">18671231</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Tagebücher und persönliche Unterlagen</EAD:unittitle>
+                     <EAD:unitid type="refCode">1.3</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3615</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">10</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">17800101</EAD:unitdate>
+                     <EAD:unitdate label="to">18780101</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Erinnerungen an Kindheit und Jugend</EAD:unittitle>
+                     <EAD:unitid type="refCode">1.4</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3616</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">2</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">17800101</EAD:unitdate>
+                     <EAD:unitdate label="to">18780101</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Private Korrespondenz von Jonathan Leclerc</EAD:unittitle>
+                     <EAD:unitid type="refCode">1.5</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3617</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">3</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">17800101</EAD:unitdate>
+                     <EAD:unitdate label="to">18780101</EAD:unitdate>
+                  </EAD:did>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Presseartikel</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.5.1</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3623</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfm">2</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">17800101</EAD:unitdate>
+                        <EAD:unitdate label="to">18381231</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+                  <EAD:c level="otherlevel" otherlevel="file">
+                     <EAD:did>
+                        <EAD:unittitle label="main">Reden und Dokumente während der Aktivistenzeit von Jonathan Leclerc</EAD:unittitle>
+                        <EAD:unitid type="refCode">1.5.2</EAD:unitid>
+                        <EAD:unitid type="refCodeAdmin">3624</EAD:unitid>
+                        <EAD:unitid type="isVisible">true</EAD:unitid>
+                        <EAD:unitid type="separator">.</EAD:unitid>
+                        <EAD:physdesc>
+                           <EAD:extent unit="shelfm">7</EAD:extent>
+                           <EAD:physfacet>text</EAD:physfacet>
+                        </EAD:physdesc>
+                        <EAD:unitdate label="from">17800101</EAD:unitdate>
+                        <EAD:unitdate label="to">18561231</EAD:unitdate>
+                     </EAD:did>
+                  </EAD:c>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Dokumente über das politische Engagement von Jonathan Leclerc</EAD:unittitle>
+                     <EAD:unitid type="refCode">1.6</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3618</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">9</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">17800101</EAD:unitdate>
+                     <EAD:unitdate label="to">18780101</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="series">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Souvenirs von Reisen und Freizeit</EAD:unittitle>
+                     <EAD:unitid type="refCode">1.7</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3619</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">6</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">17800101</EAD:unitdate>
+                     <EAD:unitdate label="to">18780101</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+            </EAD:c>
+            <EAD:c level="otherlevel" otherlevel="fonds">
+               <EAD:did>
+                  <EAD:unittitle label="main">Bestand Familie Bouchard</EAD:unittitle>
+                  <EAD:unitid type="refCode">BOUC</EAD:unitid>
+                  <EAD:unitid type="refCodeAdmin">3589</EAD:unitid>
+                  <EAD:unitid type="isVisible">true</EAD:unitid>
+                  <EAD:unitid type="separator">.</EAD:unitid>
+                  <EAD:physdesc>
+                     <EAD:extent unit="shelfm">30</EAD:extent>
+                     <EAD:physfacet>text</EAD:physfacet>
+                  </EAD:physdesc>
+                  <EAD:unitdate label="date">1856-2023</EAD:unitdate>
+                  <EAD:unitdate label="from">18560303</EAD:unitdate>
+                  <EAD:unitdate label="to">20230228</EAD:unitdate>
+               </EAD:did>
+               <EAD:scopecontent>
+                  <EAD:p>Dieses private Archiv der Familie Bouchard ist eine wertvolle Sammlung von Dokumenten, Fotografien und persönlichen Gegenständen, die die Geschichte und die Erfahrungen der Familie Bouchard über mehrere Generationen hinweg widerspiegeln. Er besteht aus mehreren Serien und Unterserien, die so organisiert sind, dass sie die Suche und Konsultation erleichtern.</EAD:p>
+               </EAD:scopecontent>
+               <EAD:c level="otherlevel" otherlevel="file">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Familienkorrespondenz</EAD:unittitle>
+                     <EAD:unitid type="refCode">2.1</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3625</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">12</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18450801</EAD:unitdate>
+                     <EAD:unitdate label="to">20080101</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="file">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Reise- und Freizeiterinnerungen von Sarah Bouchard</EAD:unittitle>
+                     <EAD:unitid type="refCode">2.2</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3626</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">6</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">19450508</EAD:unitdate>
+                     <EAD:unitdate label="to">20020802</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="file">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Private Korrespondenz von Sarah Bouchard</EAD:unittitle>
+                     <EAD:unitid type="refCode">2.4</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3628</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">1</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="date">1943 - 2005</EAD:unitdate>
+                     <EAD:unitdate label="from">19430604</EAD:unitdate>
+                     <EAD:unitdate label="to">20050103</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+               <EAD:c level="otherlevel" otherlevel="file">
+                  <EAD:did>
+                     <EAD:unittitle label="main">Tagebücher und persönliche Dokumente</EAD:unittitle>
+                     <EAD:unitid type="refCode">2.3</EAD:unitid>
+                     <EAD:unitid type="refCodeAdmin">3627</EAD:unitid>
+                     <EAD:unitid type="isVisible">true</EAD:unitid>
+                     <EAD:unitid type="separator">.</EAD:unitid>
+                     <EAD:physdesc>
+                        <EAD:extent unit="shelfm">2</EAD:extent>
+                        <EAD:physfacet>text</EAD:physfacet>
+                     </EAD:physdesc>
+                     <EAD:unitdate label="from">18250508</EAD:unitdate>
+                     <EAD:unitdate label="to">20081212</EAD:unitdate>
+                  </EAD:did>
+               </EAD:c>
+            </EAD:c>
+         </EAD:c>
+      </EAD:dsc>
+   </EAD:archdesc>
+</EAD:ead>

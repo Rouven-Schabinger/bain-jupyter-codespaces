@@ -1,0 +1,150 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02484nam a22004695i 4500</leader>
+  <controlfield tag="001">991002233881405520</controlfield>
+  <controlfield tag="005">20231110225106.0</controlfield>
+  <controlfield tag="006">m|||||o||d||||||||</controlfield>
+  <controlfield tag="007">cr || ||||||||</controlfield>
+  <controlfield tag="008">201028t20201923gw     fo  d z      ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9783112325025</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3112325028</subfield>
+  </datafield>
+  <datafield ind1="7" ind2=" " tag="024">
+    <subfield code="a">10.1515/9783112325025</subfield>
+    <subfield code="2">doi</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(CKB)4100000011556830</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(MiAaPQ)EBC6452918</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(DE-B1597)559997</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(DE-B1597)9783112325025</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(OCoLC)1202624598</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(Au-PeEL)EBL6452918</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(OCoLC)1231609534</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(Perlego)2110297</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLCZ)994100000011556830</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">DE-B1597</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">DE-B1597</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="041">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="044">
+    <subfield code="a">gw</subfield>
+    <subfield code="c">DE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">LAN009000</subfield>
+    <subfield code="2">bisacsh</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Lutta, C. Martin,</subfield>
+    <subfield code="e">author.</subfield>
+    <subfield code="4">aut</subfield>
+    <subfield code="4">http://id.loc.gov/vocabulary/relators/aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="245">
+    <subfield code="a">Der Dialekt von Bergün und seine Stellung innerhalb der rätoromanischen Mundarten Graubündens /</subfield>
+    <subfield code="c">C. Martin Lutta.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="250">
+    <subfield code="a">Reprint 2020</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Berlin ;</subfield>
+    <subfield code="a">Boston :</subfield>
+    <subfield code="b">De Gruyter,</subfield>
+    <subfield code="c">[2020]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="264">
+    <subfield code="c">©1923</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 online resource (XVI, 356 p.) :</subfield>
+    <subfield code="b">1 Kte.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="a">computer</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="a">online resource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="490">
+    <subfield code="a">Beihefte zur Zeitschrift für romanische Philologie ;</subfield>
+    <subfield code="v">71</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="588">
+    <subfield code="a">Description based on online resource; title from PDF title page (publisher's Web site, viewed 28. Okt 2020)</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="546">
+    <subfield code="a">In German.</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="t">Frontmatter --</subfield>
+    <subfield code="t">Geleitwort --</subfield>
+    <subfield code="t">Inhaltsverzeichnis --</subfield>
+    <subfield code="t">Bibliographie --</subfield>
+    <subfield code="t">Einleitung --</subfield>
+    <subfield code="t">Vokalismus --</subfield>
+    <subfield code="t">Konsonantismus --</subfield>
+    <subfield code="t">Allgemeine Erscheinungen --</subfield>
+    <subfield code="t">Die Bergüner Mundart innerhalb der rätischen Mundarten § 336—340 --</subfield>
+    <subfield code="t">Register --</subfield>
+    <subfield code="t">Zusätze und Berichtigungen --</subfield>
+    <subfield code="t">Bemerkungen zur Karte von Graubünden --</subfield>
+    <subfield code="t">Karte von Graubünden</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">The book series Beihefte zur Zeitschrift für romanische Philologie is among the most renowned publications in Romance Studies. It covers the entire field of Romance linguistics, including the national languages as well as the lesser studied  Romance languages. The series publishes high-quality monographs and collected volumes on all areas of linguistic research, on medieval literature and on textual criticism.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="530">
+    <subfield code="a">Issued also in print.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">LANGUAGE ARTS &amp; DISCIPLINES / Linguistics / General.</subfield>
+    <subfield code="2">bisacsh</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="8" tag="776">
+    <subfield code="z">9783112325018</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="8" tag="776">
+    <subfield code="z">311232501X</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">Beihefte Zur Zeitschrift Für Romanische Philologie</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="906">
+    <subfield code="a">BOOK</subfield>
+  </datafield>
+</record>

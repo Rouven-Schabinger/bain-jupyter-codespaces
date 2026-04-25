@@ -1,0 +1,71 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01057nam a2200265uc 4500</leader>
+  <controlfield tag="001">991002043538005520</controlfield>
+  <controlfield tag="005">20201222224600.0</controlfield>
+  <controlfield tag="008">921217s1986    sz ||||| |||| 00| ||ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="z">3857823847</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)205199550-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">205199550</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)011007905EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991072756249705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS PHGR</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">&lt;&lt;Das&gt;&gt; Benediktinerinnenkloster St. Johann in Müstair, Graubünden</subfield>
+    <subfield code="c">Marèse Sennhauser-Girard, Hans Rudolf Sennhauser, Hans Rutishauser, Benedikt Gubelmann</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Bern</subfield>
+    <subfield code="b">Gesellschaft für Schweizerische Kunstgeschichte</subfield>
+    <subfield code="c">1986</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">39 S.</subfield>
+    <subfield code="b">Ill. (z.T. farbig), Kart., Pläne</subfield>
+    <subfield code="c">20 cm</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="490">
+    <subfield code="a">Schweizerische Kunstführer</subfield>
+    <subfield code="v">Ser.39,Nr.384</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Titel auf dem Umschlag</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="504">
+    <subfield code="a">Literaturverz. S. 39</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Sennhauser-Girard, Marèse</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Rutishauser, Hans</subfield>
+    <subfield code="c">Kunsthistoriker</subfield>
+    <subfield code="d">1943-</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Gubelmann, Benedikt</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Sennhauser, Hans Rudolf</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGRIMPORT</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,54 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00781naa a2200193 c 4500</leader>
+  <controlfield tag="001">991002050330905520</controlfield>
+  <controlfield tag="005">20260206161324.0</controlfield>
+  <controlfield tag="008">050928s1997    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)191511315-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">191511315</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009085288EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991149168809705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Davatz, Thomas</subfield>
+    <subfield code="d">1815-1888</subfield>
+    <subfield code="0">(DE-588)1058506579</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Beschreibung einer Reise von der Tardisbrücke Kt. Graubünden, Schweiz, bis nach Ybicaba, Provinz S. Paulo, Brasilien</subfield>
+    <subfield code="c">Thomas Davatz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Auswanderung</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Brasilien</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Bündner Monatsblatt</subfield>
+    <subfield code="g">1997, Nr. 4, S. 262-302</subfield>
+    <subfield code="g">yr:1997</subfield>
+    <subfield code="g">no:1997</subfield>
+    <subfield code="w">(NEBIS)001001827EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="f">IDSU2medea</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

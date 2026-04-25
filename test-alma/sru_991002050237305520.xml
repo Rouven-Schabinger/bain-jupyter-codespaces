@@ -1,0 +1,61 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00920naa a2200217 c 4500</leader>
+  <controlfield tag="001">991002050237305520</controlfield>
+  <controlfield tag="005">20260206161639.0</controlfield>
+  <controlfield tag="008">060404s2006    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)192108573-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">192108573</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009181091EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991060785589705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Jörg, Christoph</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Bücher in der Kantonsbibliothek Graubünden aus dem Besitz namhafter Persönlichkeiten des 16. bis 18. Jahrhunderts</subfield>
+    <subfield code="c">Christoph Jörg</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Kantonsbibliothek (Graubünden)</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Bibliotheksgeschichte</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Bullinger, Heinrich (1504-1575)</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Vadianus, Joachim (1484-1551)</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Zwingli, Ulrich (1484-1531)</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Bündner Monatsblatt</subfield>
+    <subfield code="g">2006, H. 1, S. 3-34</subfield>
+    <subfield code="g">yr:2006</subfield>
+    <subfield code="g">no:2006</subfield>
+    <subfield code="w">(NEBIS)001001827EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

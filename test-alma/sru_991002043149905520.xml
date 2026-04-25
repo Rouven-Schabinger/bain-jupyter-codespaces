@@ -1,0 +1,554 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>08117nam a2201489 c 4500</leader>
+  <controlfield tag="001">991002043149905520</controlfield>
+  <controlfield tag="005">20230904160029.0</controlfield>
+  <controlfield tag="008">201011s2008    sz ||||| |||| 00| ||ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9783038230694</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)213158078-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">213158078</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(RERO)R004995394-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)004676676DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)005701886EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSLU)000590156ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009403546EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSSG)000361750HSB01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(ALEX)bv001394796</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991120173699705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">TFLa</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="044">
+    <subfield code="a">sz</subfield>
+    <subfield code="c">ch-zh</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ss</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">gn</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">sg</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">660</subfield>
+    <subfield code="2">IDS LU</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">305.40949473</subfield>
+    <subfield code="2">22/ger</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">300</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">305.3</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">949.4</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">300</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">LB 56150</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">NW 8100</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">FremdeFrau</subfield>
+    <subfield code="b">Beiträge zur Frauen- und Gechlechtergeschichte Graubündens im 19. und 20. Jahrhundert</subfield>
+    <subfield code="c">herausgegeben von Silke Redolfi, Silvia Hofmann, Ursula Jecklin ; wissenschaftliche Begleitung: Regina Wecker</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="246">
+    <subfield code="a">Frauen- und Geschlechtergeschichte Graubünden</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="246">
+    <subfield code="a">Fremde Frau</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Zürich</subfield>
+    <subfield code="b">Verlag Neue Zürcher Zeitung</subfield>
+    <subfield code="c">[2008]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="4" tag="264">
+    <subfield code="c">© 2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">336 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">27 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="490">
+    <subfield code="a">NZZ Libro</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Beiträge zur Frauen- und Geschlechtergeschichte Graubündens im 19. und 20. Jahrhundert</subfield>
+    <subfield code="v">Band 4</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Forschungsreihe "Fraubünden"</subfield>
+    <subfield code="v">Band 4</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Register</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Mit Abstract in Italienisch und Rätoromanisch</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Abstracts auf italienisch und rätoromanisch</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Gewidmet der erten Feministin der Schweiz, der Gelehrten, der frühen Schriftstellerin und Heilkundigen, Hortensia von Salis, verwitwete Gugelberg von Moos (1659-1715) von Maienfeld</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="504">
+    <subfield code="a">Literaturverzeichnis</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte (umfassend)</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte 1800-2000</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Schweizergeschichte</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000019922ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frau</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000008692ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Ausländer</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000002245ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">19e siècle-20e siècle</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Femmes</subfield>
+    <subfield code="0">(IDREF)027537242</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Feministische Geschichtswissenschaft</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frau und Mann</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="y">Geschichte 19. Jh</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frau und Mann</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="y">Geschichte 20. Jh</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Fremdheit</subfield>
+    <subfield code="0">(DE-588)4018421-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Migration</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Soziale Situation</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frau</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Einwanderer</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Verschiedenheit</subfield>
+    <subfield code="0">(DE-588)4283474-0</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Foreign workers</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Lesbians</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Single women</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Women foreign workers</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Women's rights</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Women</subfield>
+    <subfield code="x">Legal status, laws, etc</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="x">History</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="650">
+    <subfield code="a">Women</subfield>
+    <subfield code="z">Switzerland</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="x">Social conditions</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">AUFSATZSAMMLUNGEN (DOKUMENTENTYP)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000009249</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">AUSLÄNDER UND FREMDE (PERSONEN)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000008958</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">EINWANDERER + EINWANDERINNEN</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000055992</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">FRAUEN (PERSONEN)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000008961</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">FRAUENGESCHICHTE (GESCHLECHTERFRAGEN)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000042724</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">GENDERGESCHICHTE (GESCHLECHTERFRAGEN)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000057693</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KANTON GRAUBÜNDEN (SCHWEIZ)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000005120</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KULTURELLER KONTEXT DES SOZIALEN LEBENS (SOZIOLOGIE)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000055622</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">MIGRATION + BEVÖLKERUNGSWANDERUNG (INNENPOLITIK)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000010196</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">ROLLE + ROLLENVERTEILUNG (SOZIOLOGIE)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000009981</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Einwanderer</subfield>
+    <subfield code="0">(DE-588)4151434-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Migration</subfield>
+    <subfield code="0">(DE-588)4120730-0</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Soziale Situation</subfield>
+    <subfield code="0">(DE-588)4077575-6</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Einwanderin</subfield>
+    <subfield code="0">(DE-588)4314292-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Lesbe</subfield>
+    <subfield code="0">(DE-588)4035430-1</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Frau</subfield>
+    <subfield code="0">(DE-588)4018202-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Fremdbild</subfield>
+    <subfield code="0">(DE-588)4127240-7</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Immigrate</subfield>
+    <subfield code="z">Grigioni</subfield>
+    <subfield code="y">Sec. 19.-20.</subfield>
+    <subfield code="2">sbt12</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000019912ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(RERO)jurivoc000010274ger</subfield>
+    <subfield code="2">jurivoc</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Grisons (Suisse)</subfield>
+    <subfield code="0">(IDREF)027228517</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden (Schweiz)</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="651">
+    <subfield code="a">Graubünden (Switzerland)</subfield>
+    <subfield code="x">Emigration and immigration</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Münstertal</subfield>
+    <subfield code="g">Graubünden</subfield>
+    <subfield code="0">(DE-588)4075085-1</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">[Études diverses]</subfield>
+    <subfield code="0">(RERO)A022249905</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Aufsatzsammlung</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Frauengeschichte</subfield>
+    <subfield code="2">ubs-GB</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Frauengeschichte / Graubünden</subfield>
+    <subfield code="2">bsb-G8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">109</subfield>
+    <subfield code="d">Gender: Beiträge zur Geographie, Stellung der Frau, Feministische Geographie, Frauen</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">239</subfield>
+    <subfield code="d">Graubünden: Ganzer Kanton</subfield>
+    <subfield code="2">uzb-UJ</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Frau</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Weibliche Fremde</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Abstract; Verzeichnis; Geschichte; Mütter; Wecker; Fremder</subfield>
+    <subfield code="2">idssg-J</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Abkürzungsverzeichnis; Namenverzeichnis; Ortsverzeichnis; Geschlechtergeschichte; Hofmann; Frauenfreundschaft; Zuckerbäckerfrau; Bildnachweis; Herausgeberinne; Inhaltsübersicht; Papacella</subfield>
+    <subfield code="2">idssg-J</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">bündner Zuckerbäckerfrau; europäische Ethnographie; frauenliebende Frau; fremde Forscherin; großes Projekt; lesbische Beziehung; neuer Zürcher; unterschiedliche Beurteilung; wissenschaftliche Begleitung</subfield>
+    <subfield code="2">idssg-J</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Italien C4EUIT; Schweiz C4EXSI; Kanada C1CANA; Deutschland C4EUGE; Graubünden C4EXSI</subfield>
+    <subfield code="2">idssg-J</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Bsatzig St. Peter; Caprez Eveline Nay; Christina Caprez Eveline Nay; Daniele Papacella Dalla; Eugenie Goldstern; Frauen- Geschlechtergeschichte Graubündens; Frau Graubünden; Fremder Frauen; Hofmann Ursula Jecklin; Hofmann Ursula Jecklin Wissenschaftliche Begleitung Regina Wecker; Il suo ruolo nella; Marta Ostertag; Monastero di Poschiavo; Regula Pfeifer Schau; Silk Redolfi Silvia; Silvia Hofmann; Universität Basel Neue Zürcher; Zeitung Inhaltsübersicht Einführung</subfield>
+    <subfield code="2">idssg-J</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="6">880-05</subfield>
+    <subfield code="a">Redolfi, Silke Margherita</subfield>
+    <subfield code="d">1964-</subfield>
+    <subfield code="4">edt</subfield>
+    <subfield code="0">(DE-588)1079964584</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="880">
+    <subfield code="6">700-05/(B</subfield>
+    <subfield code="a">Redolfi, Silke</subfield>
+    <subfield code="d">1964-….</subfield>
+    <subfield code="0">(IDREF)243980752</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Hofmann, Silvia</subfield>
+    <subfield code="d">1954-....</subfield>
+    <subfield code="0">(IDREF)270928367</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Jecklin, Ursula</subfield>
+    <subfield code="d">1941-....</subfield>
+    <subfield code="0">(IDREF)269690751</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="6">880-04</subfield>
+    <subfield code="a">Wecker, Regina</subfield>
+    <subfield code="d">1944-</subfield>
+    <subfield code="4">ctb</subfield>
+    <subfield code="0">(DE-588)135590280</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="880">
+    <subfield code="6">700-04</subfield>
+    <subfield code="a">Wecker, Regina</subfield>
+    <subfield code="d">1944-....</subfield>
+    <subfield code="0">(IDREF)029277426</subfield>
+    <subfield code="4">ctb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">Beiträge zur Frauen- und Geschlechtergeschichte Graubündens im 19. und 20. Jahrhundert</subfield>
+    <subfield code="v">4</subfield>
+    <subfield code="w">(IDSLU)000358664ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="0" tag="830">
+    <subfield code="a">Fraubünden</subfield>
+    <subfield code="v">4</subfield>
+    <subfield code="w">(IDSSG)000292405HSB01</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="2" tag="856">
+    <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+    <subfield code="u">https://toc.library.ethz.ch/objects/pdf/z01_978-3-03823-069-4_01.pdf</subfield>
+    <subfield code="q">pdf</subfield>
+  </datafield>
+  <datafield ind1="4" ind2="2" tag="856">
+    <subfield code="3">Abstract / Autoreninformation</subfield>
+    <subfield code="u">https://toc.library.ethz.ch/objects/pdf/e16_978-3-03823-069-4_02.pdf</subfield>
+    <subfield code="q">pdf</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZ1ZH</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZ2zbzmon200811e</subfield>
+    <subfield code="c">IDSZ2kalh</subfield>
+    <subfield code="d">IDSZ2zbzswk200812b</subfield>
+    <subfield code="e">IDSZ2bucp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSE5E19ANH-2008</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="949">
+    <subfield code="a">https://toc.library.ethz.ch/objects/pdf/z01_978-3-03823-069-4_01.pdf</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="949">
+    <subfield code="a">https://toc.library.ethz.ch/objects/pdf/e16_978-3-03823-069-4_02.pdf</subfield>
+  </datafield>
+</record>

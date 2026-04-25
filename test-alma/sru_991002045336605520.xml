@@ -1,0 +1,184 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02538nam a2200541 c 4500</leader>
+  <controlfield tag="001">991002045336605520</controlfield>
+  <controlfield tag="005">20210705120808.0</controlfield>
+  <controlfield tag="008">131212s2015    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9783952392027</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)206596634-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">206596634</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)011166418EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991114442429705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS FHNW-AG</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">K</subfield>
+    <subfield code="2">23sdnb</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Loser, Jürg</subfield>
+    <subfield code="d">1967-</subfield>
+    <subfield code="0">(DE-588)1066616728</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Beim Schlitteln</subfield>
+    <subfield code="b">ein Bilderbuch aus Graubünden</subfield>
+    <subfield code="c">Erzählung: Jürg Loser ; Bilder: Patrick Steiger</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="3" tag="246">
+    <subfield code="a">Türli &amp; Flidari beim Schlitteln</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="250">
+    <subfield code="a">2. Auflage</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="b">[Montlingen]</subfield>
+    <subfield code="b">Türli Verlag</subfield>
+    <subfield code="c">2015</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">26 ungezählte Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">23 x 32 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Türli &amp; Flidari</subfield>
+    <subfield code="v">Band 3, 2. Auflage</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Edition UNESCO Welterbe Rhätische Bahn</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Auf der Verlagshomepage sind zu jedem Band Malvorlagen herunterladbar.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="520">
+    <subfield code="a">Der dritte Band ist in Zusammenarbeit mit "Bergün Filisur Tourismus" und dem "UNESCO Welterbe Rhätische Bahn" entstanden. Im Buch zu erkennen sind unter anderem folgende Schauplätze aus Graubünden: Bergün, Preda, Landwasserviadukt, Muchetta, Isla-Bächli, Albulaviadukt III und Crap Fèss. Unter "Wusstest du, dass" ...erfährt man Wissenswertes aus der Region.</subfield>
+  </datafield>
+  <datafield ind1="2" ind2="7" tag="610">
+    <subfield code="a">Rhätische Bahn AG</subfield>
+    <subfield code="0">(DE-588)2064715-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Rodelsport</subfield>
+    <subfield code="0">(DE-588)4178272-0</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Schlitten</subfield>
+    <subfield code="0">(DE-588)4052737-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Welterbe</subfield>
+    <subfield code="0">(DE-588)4402276-1</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Winter</subfield>
+    <subfield code="0">(DE-588)4066326-7</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Bergün/Bravuogn</subfield>
+    <subfield code="0">(DE-588)4005700-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Preda</subfield>
+    <subfield code="g">Bergün</subfield>
+    <subfield code="0">(DE-588)4563930-9</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="0">(DE-588)4053881-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Bilderbuch</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Kindersachbuch</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Sachbilderbuch</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Schweiz: Bilderbuch</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Berg</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Eisenbahn: Bilderbuch</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Winter: Bilderbuch</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Schlittenfahrt</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">zbs-FS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Steiger, Patrick</subfield>
+    <subfield code="e">Illustrator</subfield>
+    <subfield code="4">ill</subfield>
+    <subfield code="0">(DE-588)1186078464</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="800">
+    <subfield code="a">Loser, Jürg</subfield>
+    <subfield code="d">1967-</subfield>
+    <subfield code="t">Türli &amp; Flidari</subfield>
+    <subfield code="v">3/2</subfield>
+    <subfield code="w">(NEBIS)010658887EBI01</subfield>
+  </datafield>
+</record>

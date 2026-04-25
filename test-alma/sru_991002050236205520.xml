@@ -1,0 +1,56 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00759naa a2200205 c 4500</leader>
+  <controlfield tag="001">991002050236205520</controlfield>
+  <controlfield tag="005">20260206161837.0</controlfield>
+  <controlfield tag="008">050928s1984    sz            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)191367680-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">191367680</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009085326EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991094858099705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Dilger, Annemarie</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; ältesten Rechte in Graubünden und ihre Ausstrahlung auf Vorarlberg und Tirol</subfield>
+    <subfield code="c">von Annemarie Dilger</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Vorarlberg</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Tirol</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Rechtsgeschichte</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Bündner Monatshefte</subfield>
+    <subfield code="g">1984, Nr. 5/6, S. 106-125</subfield>
+    <subfield code="g">yr:1984</subfield>
+    <subfield code="g">no:1984</subfield>
+    <subfield code="w">(NEBIS)001001827EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="f">IDSU2medea</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

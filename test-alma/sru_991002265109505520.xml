@@ -1,0 +1,47 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00691naa a22001812c 4500</leader>
+  <controlfield tag="001">991002265109505520</controlfield>
+  <controlfield tag="005">20260207002033.0</controlfield>
+  <controlfield tag="008">050929s1994    gw            00| | ger^^</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)191457329-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">191457329</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009088882EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991109473129705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Clavadetscher, Otto Paul</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; Annäherung der spätmittelalterlichen Erbleihe im nordalpinen Graubünden an das freie Grundeigentum</subfield>
+    <subfield code="c">Otto P. Clavadetscher</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Grundeigentum</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="773">
+    <subfield code="t">Rätien im Mittelalter</subfield>
+    <subfield code="g">1994</subfield>
+    <subfield code="g">S. 505-522</subfield>
+    <subfield code="w">(NEBIS)001361234EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="f">IDSU2medea</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="998">
+    <subfield code="a">no_inventory_analytical</subfield>
+    <subfield code="9">local</subfield>
+  </datafield>
+</record>

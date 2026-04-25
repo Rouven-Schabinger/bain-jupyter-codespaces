@@ -1,0 +1,298 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>03588nam a2200841 ca4500</leader>
+  <controlfield tag="001">991002043558705520</controlfield>
+  <controlfield tag="005">20240308055807.0</controlfield>
+  <controlfield tag="008">201012s2016    sz ||||| m||| 00| ||ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3906064700</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">9783906064703</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)238239950-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">238239950</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)006676323DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)010881110EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(RERO)R008584657-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(OCoLC)966956374</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(ABN)000808796ABN01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991154903349705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="e">rda</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ur</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ar</subfield>
+    <subfield code="2">rero</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="080">
+    <subfield code="a">903"637"(4CH)GR:738</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">930</subfield>
+    <subfield code="2">23</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="4" tag="082">
+    <subfield code="a">930</subfield>
+    <subfield code="2">15</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">LH 78610</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">930</subfield>
+    <subfield code="2">sdnb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="084">
+    <subfield code="a">NF 1345</subfield>
+    <subfield code="2">rvk</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Murbach-Wende, Ina</subfield>
+    <subfield code="d">19XX-</subfield>
+    <subfield code="0">(DE-588)1127613057</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="240">
+    <subfield code="a">&lt;&lt;Die&gt;&gt; frühbronze- bis eisenzeitliche Keramik der Siedlung Cazis-Cresta (GR) - eine Entwicklungsgeschichte über 1500 Jahre</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Cazis, Cresta</subfield>
+    <subfield code="b">die Keramik</subfield>
+    <subfield code="c">Ina Murbach-Wende ; Herausgeber: Archäologischer Dienst Graubünden, Amt für Kultur ; Lektorat und Redaktion Mathias Seifert</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Glarus</subfield>
+    <subfield code="b">Somedia Buchverlag</subfield>
+    <subfield code="c">[2016]</subfield>
+    <subfield code="a">Chur</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">2 Bände (255, 137 Seiten)</subfield>
+    <subfield code="b">in Schuber; Illustrationen</subfield>
+    <subfield code="f">Band 5/1: Text ; Band 5/2: Katalog</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="490">
+    <subfield code="a">Archäologie Graubünden. Sonderheft</subfield>
+    <subfield code="v">5</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="502">
+    <subfield code="g">Überarbeitete</subfield>
+    <subfield code="b">Dissertation</subfield>
+    <subfield code="c">Universität Bern</subfield>
+    <subfield code="d">2000</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="g">Band 1</subfield>
+    <subfield code="t">Text</subfield>
+    <subfield code="r">mit einem Beitrag von Angela Zanco</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="505">
+    <subfield code="g">Band 2</subfield>
+    <subfield code="t">Katalog</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="505">
+    <subfield code="a">Vol. 1: Text. - 255 p.</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="505">
+    <subfield code="a">Vol. 2: Katalog. - 139 p.</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Vor- und Frühgeschichte</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Bronzezeit</subfield>
+    <subfield code="0">(DE-588)4008357-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Eisenzeit</subfield>
+    <subfield code="0">(DE-588)4014102-0</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Funde</subfield>
+    <subfield code="0">(DE-588)4071507-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Keramik</subfield>
+    <subfield code="0">(DE-588)4030270-2</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Gefäß</subfield>
+    <subfield code="0">(DE-588)4128003-9</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Céramique préhistorique</subfield>
+    <subfield code="0">(IDREF)027283410</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Âge du bronze</subfield>
+    <subfield code="0">(IDREF)027268691</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="0">(DE-588)4053881-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Cresta</subfield>
+    <subfield code="0">(DE-588)4085357-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Cresta</subfield>
+    <subfield code="g">Cazis</subfield>
+    <subfield code="0">(DE-588)4704631-4</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Cazis (Suisse)</subfield>
+    <subfield code="0">(IDREF)171431634</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Katalog</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Hochschulschrift</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Catalogues</subfield>
+    <subfield code="0">(IDREF)027793222</subfield>
+    <subfield code="2">idref</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Schweiz - Graubünden - Cresta/Cazis</subfield>
+    <subfield code="2">ubs-A8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Bronzezeit - Schweiz</subfield>
+    <subfield code="2">ubs-A8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Eisenzeit - Schweiz</subfield>
+    <subfield code="2">ubs-A8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Keramik - Bronzezeit</subfield>
+    <subfield code="2">ubs-A8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Keramik - Eisenzeit</subfield>
+    <subfield code="2">ubs-A8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Typologie - Bronzezeit - Schweiz</subfield>
+    <subfield code="2">ubs-A8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Typologie - Eisenzeit - Schweiz</subfield>
+    <subfield code="2">ubs-A8</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Schweiz. Ur- und Frühgeschichte</subfield>
+    <subfield code="2">uzb-US</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Keramik. Frühzeit</subfield>
+    <subfield code="2">uzb-US</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Seifert, Mathias</subfield>
+    <subfield code="d">19XX-</subfield>
+    <subfield code="0">(DE-588)118033115</subfield>
+    <subfield code="e">Mitwirkender</subfield>
+    <subfield code="4">ctb</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="6">880-03</subfield>
+    <subfield code="a">Zanco, Angela</subfield>
+    <subfield code="e">Mitwirkender</subfield>
+    <subfield code="4">ctb</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="880">
+    <subfield code="6">700-03</subfield>
+    <subfield code="a">Zanco, Angela</subfield>
+    <subfield code="d">19..-....</subfield>
+    <subfield code="0">(IDREF)262460580</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="710">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="b">Archäologischer Dienst</subfield>
+    <subfield code="6">880-04</subfield>
+    <subfield code="0">(DE-588)5076786-0</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="880">
+    <subfield code="6">710-04</subfield>
+    <subfield code="a">Grisons</subfield>
+    <subfield code="g">Suisse</subfield>
+    <subfield code="b">Archäologischer Dienst</subfield>
+    <subfield code="0">(IDREF)227138821</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="830">
+    <subfield code="a">Archäologie Graubünden</subfield>
+    <subfield code="p">Sonderheft</subfield>
+    <subfield code="v">5</subfield>
+    <subfield code="w">(RERO)R007440972-41slsp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="830">
+    <subfield code="a">Archäologie Graubünden</subfield>
+    <subfield code="p">Sonderheft</subfield>
+    <subfield code="v">5</subfield>
+    <subfield code="w">(IDSBB)006019718DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">REROnoselfmerge</subfield>
+  </datafield>
+</record>

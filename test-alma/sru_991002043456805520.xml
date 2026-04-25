@@ -1,0 +1,64 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01032ngm a2200241 c 4500</leader>
+  <controlfield tag="001">991002043456805520</controlfield>
+  <controlfield tag="005">20201229195522.0</controlfield>
+  <controlfield tag="007">vd |g||||</controlfield>
+  <controlfield tag="008">000919s2005    sz |||            v|ger d</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)193569469-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">193569469</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)009429175EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991036680979705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS UZH</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Filzerinnen in Graubünden</subfield>
+    <subfield code="b">"nicht die Letzten von gestern, sondern die Ersten von morgen" : ökologische und ästhetische Kultur in einem faszinierenden Handwerk</subfield>
+    <subfield code="c">ein Film von Walter Hunkeler ; Idee und Regieassistenz: Rosmarie Persenico ; Verein Filzszene Graubünden</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Soglio</subfield>
+    <subfield code="b">W. Hunkeler</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">1 DVD-R (ca. 50 Min.)</subfield>
+    <subfield code="e">1 Beiblatt</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Sprache: Deutsch</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="538">
+    <subfield code="a">Ländercode 0</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Filzherstellung</subfield>
+    <subfield code="0">(DE-588)4194185-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Hunkeler, Walter</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Persenico, Rosmarie</subfield>
+  </datafield>
+  <datafield ind1="2" ind2=" " tag="710">
+    <subfield code="a">Verein Filzszene Graubünden</subfield>
+    <subfield code="0">(DE-588)1087165482</subfield>
+  </datafield>
+</record>

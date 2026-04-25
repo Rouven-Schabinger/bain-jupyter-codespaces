@@ -1,0 +1,220 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02555nam a2200637 c 4500</leader>
+  <controlfield tag="001">991002042498505520</controlfield>
+  <controlfield tag="005">20230327201610.0</controlfield>
+  <controlfield tag="008">201011s2005    sz            00| | ger|d</controlfield>
+  <datafield ind1=" " ind2=" " tag="015">
+    <subfield code="a">GFR-DNB-05,N03,0829</subfield>
+  </datafield>
+  <datafield ind1="7" ind2=" " tag="016">
+    <subfield code="a">973210559</subfield>
+    <subfield code="2">GyFmDB</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="020">
+    <subfield code="a">3856373004</subfield>
+    <subfield code="c">Pb. : EUR 25.10 (freier Pr.), sfr 44.00</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)211088269-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">211088269</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSBB)003550884DSV01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(IDSLU)000450908ILU01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)004898461EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(DDB)973210559</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(ALEX)bv000895927</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991032462629705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">DDB</subfield>
+    <subfield code="e">kids</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="041">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="072">
+    <subfield code="a">ge</subfield>
+    <subfield code="2">SzZuIDS BS/BE</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="4" tag="082">
+    <subfield code="a">360</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="100">
+    <subfield code="a">Gisler, Monika</subfield>
+    <subfield code="d">1963-</subfield>
+    <subfield code="0">(DE-588)132804719</subfield>
+  </datafield>
+  <datafield ind1="1" ind2="0" tag="245">
+    <subfield code="a">Erdbeben in Graubünden</subfield>
+    <subfield code="b">Vergangenheit, Gegenwart, Zukunft</subfield>
+    <subfield code="c">Monika Gisler, Markus Weidmann, Donat Fäh ; unter der Mitarb. von Philipp Kästli ... [et al.]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="b">Verlag Desertina</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">135 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+    <subfield code="c">31 cm</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="336">
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="337">
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="338">
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte 1000-2003</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="648">
+    <subfield code="a">Geschichte</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Erdbeben</subfield>
+    <subfield code="z">Graubünden</subfield>
+    <subfield code="y">Geschichte</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Erdbeben</subfield>
+    <subfield code="z">Bündner Alpen</subfield>
+    <subfield code="y">Geschichte</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Erdbeben</subfield>
+    <subfield code="z">Schweiz</subfield>
+    <subfield code="y">Geschichte</subfield>
+    <subfield code="2">idsbb</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Erdbebengefahr</subfield>
+    <subfield code="0">(DE-588)4385254-3</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Erdbeben</subfield>
+    <subfield code="0">(DE-588)4015134-7</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Erdbeben</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">ERDBEBENSCHÄDEN (GEOPHYSIK)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000019853</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">ERDBEBENSKALEN (GEOPHYSIK)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000019859</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">ERDBEBENSTATISTIK</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000043481</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">KANTON GRAUBÜNDEN (SCHWEIZ)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000005120</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">PALÄOSEISMIZITÄT (GEOPHYSIK)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000045908</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">SCHWEIZ (MITTELEUROPA). SCHWEIZERISCHE EIDGENOSSENSCHAFT</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000004571</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">SEISMIZITÄT (GEOPHYSIK)</subfield>
+    <subfield code="9">ger</subfield>
+    <subfield code="0">(ETHUDK)000019882</subfield>
+    <subfield code="2">ethudk</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden (Schweiz)</subfield>
+    <subfield code="2">idszbz</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Erdbeben</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Schweiz</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="690">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="2">rzh-UA</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Weidmann, Markus</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Fäh, Donat</subfield>
+    <subfield code="d">1960-</subfield>
+    <subfield code="0">(DE-588)1089309651</subfield>
+  </datafield>
+  <datafield ind1="1" ind2=" " tag="700">
+    <subfield code="a">Kästli, Philipp</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSZ2zbzmon200508l</subfield>
+    <subfield code="c">IDSZ2tobt</subfield>
+    <subfield code="d">IDSZ2zbzswk200512b</subfield>
+    <subfield code="e">IDSZ2hang</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>

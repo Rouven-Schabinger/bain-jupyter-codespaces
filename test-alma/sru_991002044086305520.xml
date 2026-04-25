@@ -1,0 +1,70 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01040nam a22002532c 4500</leader>
+  <controlfield tag="001">991002044086305520</controlfield>
+  <controlfield tag="005">20201222225407.0</controlfield>
+  <controlfield tag="008">970612m19651982sz ||||| |||| 00| ||roh d</controlfield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(swissbib)205458904-41slsp_network</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">205458904</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(NEBIS)011010639EBI01</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="035">
+    <subfield code="a">(EXLNZ-41SLSP_NETWORK)991112471029705501</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="040">
+    <subfield code="a">SzZuIDS NEBIS PHGR</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="d">CH-ZuSLS</subfield>
+  </datafield>
+  <datafield ind1="0" ind2="0" tag="245">
+    <subfield code="a">Dorfordnungen</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="250">
+    <subfield code="a">[Versch. Aufl.]</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="1" tag="264">
+    <subfield code="a">Chur</subfield>
+    <subfield code="a">Celerina/Schlarigna</subfield>
+    <subfield code="b">Società Retorumantscha</subfield>
+    <subfield code="b">Uniun dals Grischs</subfield>
+    <subfield code="c">1965-1982</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="300">
+    <subfield code="a">2 Bd.</subfield>
+  </datafield>
+  <datafield ind1="0" ind2=" " tag="490">
+    <subfield code="a">Die Rechtsquellen des Kantons Graubünden</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="500">
+    <subfield code="a">Lt. Vorw. in Bd. 1 erw. Ausg. der in der Reihe "Sammlung schweizerischer Rechtsquellen. Abt. 15, Die Rechtsquellen des Kantons Graubünden. Serie B, Die Statuten der Gerichtsgemeinden" erschienenen Bände</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="650">
+    <subfield code="a">Rechtsquelle</subfield>
+    <subfield code="0">(DE-588)4048828-7</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="651">
+    <subfield code="a">Graubünden</subfield>
+    <subfield code="0">(DE-588)4021881-8</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Verzeichnis</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2="7" tag="655">
+    <subfield code="a">Quelle</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGRIMPORT</subfield>
+  </datafield>
+  <datafield ind1=" " ind2=" " tag="900">
+    <subfield code="a">IDSERPHGR-PRIMO-INDEX</subfield>
+  </datafield>
+</record>
